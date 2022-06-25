@@ -6,7 +6,7 @@
 #    By: mathmart <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/06/25 14:46:28 by mathmart          #+#    #+#              #
-#    Updated: 2022/06/25 19:28:59 by mathmart         ###   ########.fr        #
+#    Updated: 2022/06/25 19:53:31 by mathmart         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -124,7 +124,7 @@ endif
 
 gmk_srcs: $(MK_DIR)
 	@echo "SRCS += " > ./Config/Sources.mk
-	@find srcs -name '*.c' | sed 's/^/SRCS += /' >> ./Config/Sources.mk
+	@find src -name '*.c' | sed 's/^/SRCS += /' >> ./Config/Sources.mk
 	@echo "HEADER += " > ./Config/Header.mk
 	@find Includes -name '*.h' | sed 's/^/HEADER += /' >> ./Config/Header.mk
 	@echo "`sed '/tracker/d' ./Config/Sources.mk`" > ./Config/Sources.mk

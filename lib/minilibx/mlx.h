@@ -52,7 +52,7 @@ void	*mlx_init();
 **  needed before everything else.
 **  return (void *)0 if failed
 */
-
+void	mlx_destroy_mlx(void *mlx_ptr);
 
 /*
 ** Basic actions

@@ -96,6 +96,11 @@ void *mlx_init()
   return ((void *)new_mlx);
 }
 
+void	mlx_destroy_mlx(mlx_ptr_t *mlx_ptr)
+{
+	mlx_destroy_image(mlx_ptr, mlx_ptr->font);
+	free(mlx_ptr);
+}
 
 void mlx_loop(mlx_ptr_t *mlx_ptr)
 {
