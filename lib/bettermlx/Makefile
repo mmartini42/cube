@@ -36,7 +36,7 @@ WHITE		= \033[1;49;97m
 #									Variables									#
 #################################################################################
 
-NAME		= bettermlx.a
+NAME		= libbettermlx.a
 MK_DIR		= Config
 OBJS		= $(SRCS:%.c=%.o)
 OBJ_DIR 	= Objects
