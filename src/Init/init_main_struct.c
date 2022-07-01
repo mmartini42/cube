@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:14:10 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:42:49 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/01 20:01:10 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,12 +36,14 @@ static t_map	*init_map_struct(void)
 	map->map = NULL;
 	map->orientation = NULL;
 	map->path = NULL;
+	map->file = NULL;
+	map->start = 0;
 	return (map);
 }
 
 t_game 	*init_main_struct(void)
 {
-	t_game *game;
+	t_game	*game;
 
 	game = ft_calloc(1, sizeof(t_game *));
 	if (!game)

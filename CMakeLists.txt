@@ -26,6 +26,6 @@ include_directories(${CMAKE_SOURCE_DIR}/include
         ${CMAKE_SOURCE_DIR}/lib/bettermlx/includes
         )
 
-add_executable(cube3D ${SOURCES} include/cube_errors.h)
+add_executable(cube3D ${SOURCES} include/cube_errors.h src/parsing/utils/get_next_line.c src/parsing/get_map_info.c)
 
 target_link_libraries(cube3D libft mlx better)

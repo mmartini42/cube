@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:51:22 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/01 20:00:23 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,3 +21,5 @@ int	main(int ac, char **av)
 	game = init_main_struct();
 	parse_map(game, av);
 }
+
+//free all
