@@ -1,23 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   cube_errors.h                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:51:22 by mathismartini    ###   ########.fr       */
+/*   Created: 2022/07/01 18:11:41 by mathismartini     #+#    #+#             */
+/*   Updated: 2022/07/01 18:22:20 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "cube.h"
+#ifndef CUBE_CUBE_ERRORS_H
+#define CUBE_CUBE_ERRORS_H
 
-int	main(int ac, char **av)
+typedef enum s_error
 {
-	t_game	*game;
+	FORMAT_FILE,
+	OPEN_FAILURE,
+	EMPTY_FILE,
+}			t_error;
 
-	if (ac <= 1)
-		ft_putstr_errnl("Error need more arguments !");
-	game = init_main_struct();
-	parse_map(game, av);
-}
+void	check_parse_error(int error, t_game *game);
+
+#endif

@@ -1,23 +1,30 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   check_format_file.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:51:22 by mathismartini    ###   ########.fr       */
+/*   Created: 2022/07/01 18:02:38 by mathismartini     #+#    #+#             */
+/*   Updated: 2022/07/01 18:22:20 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "cube.h"
 
-int	main(int ac, char **av)
+void	check_file_map(t_game *game, char *path)
 {
-	t_game	*game;
+	int fd;
 
-	if (ac <= 1)
-		ft_putstr_errnl("Error need more arguments !");
-	game = init_main_struct();
-	parse_map(game, av);
+	fd = open(path, O_DIRECTORY);
+	if (fd != -1)
+	{
+		close(fd);
+		check_parse_error(FORMAT_FILE, game);
+	}
+	fd = open(path, O_RDONLY);
+	if (fd == -1)
+		check_parse_error(OPEN_FAILURE, game);
+	if (!read(fd, 0, 0))
+		check_parse_error(EMPTY_FILE, game);
 }

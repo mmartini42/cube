@@ -1,23 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   cube_function.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:51:22 by mathismartini    ###   ########.fr       */
+/*   Created: 2022/07/01 17:44:43 by mathismartini     #+#    #+#             */
+/*   Updated: 2022/07/01 17:46:57 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "cube.h"
+#ifndef CUBE_CUBE_FUNCTION_H
+#define CUBE_CUBE_FUNCTION_H
 
-int	main(int ac, char **av)
-{
-	t_game	*game;
+# include "cube_struct.h"
 
-	if (ac <= 1)
-		ft_putstr_errnl("Error need more arguments !");
-	game = init_main_struct();
-	parse_map(game, av);
-}
+/* Init */
+t_game 	*init_main_struct(void);
+
+/* Parsing */
+void	parse_map(t_game *game, char **av);
+
+#endif

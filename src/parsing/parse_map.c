@@ -1,23 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   parse_map.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:51:22 by mathismartini    ###   ########.fr       */
+/*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
+/*   Updated: 2022/07/01 17:54:32 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "cube.h"
 
-int	main(int ac, char **av)
+void	parse_map(t_game *game, char **av)
 {
-	t_game	*game;
-
-	if (ac <= 1)
-		ft_putstr_errnl("Error need more arguments !");
-	game = init_main_struct();
-	parse_map(game, av);
+	check_file_map(game, av[1]);
 }
