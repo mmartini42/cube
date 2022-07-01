@@ -6,7 +6,7 @@
 #    By: mathmart <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/06/25 14:46:28 by mathmart          #+#    #+#              #
-#    Updated: 2022/06/30 20:17:31 by mathismartini    ###   ########.fr        #
+#    Updated: 2022/07/01 17:08:15 by mathismartini    ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -47,7 +47,7 @@ MLX			= ./lib/minilibx/libmlx.a
 BETTER		= ./lib/bettermlx/libbettermlx.a
 INCLUDES	= -I ./lib/minilibx -I ../lib/libft -I ./lib/bettermlx/includes -I ./Includes
 INC_LIB		= -L ./lib/minilibx -L ./lib/bettermlx/ -lbettermlx
-LIB			= -lmlx $(INC_LIB) $(INC_INC) -L ./lib/libft/ -lft
+LIB			= -lmlx $(INC_LIB) $(INC_INC) -L ./lib/libft/ -lft lm
 CONFIG		= $(shell find [0-9a-zA-Z]* -type d -name "Config")
 
 #################################################################################

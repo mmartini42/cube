@@ -18,7 +18,7 @@ file(GLOB_RECURSE HEADER RELATIVE ${CMAKE_SOURCE_DIR} "./lib/bettermlx/includes/
 #Adding library
 add_library(libft ${LIBFT})
 add_library(mlx ${MLX})
-add_library(better ${BETTER})
+add_library(better ${BETTER} include/cube.h include/cube_struct.h include/cube_dependences.h src/Init/init_main_struct.c include/cube_function.h src/parsing/parse_map.c src/parsing/check_format_file.c src/parsing/error/format_errors.c)
 
 include_directories(${CMAKE_SOURCE_DIR}/include
         ${CMAKE_SOURCE_DIR}/lib/libft/
@@ -26,6 +26,6 @@ include_directories(${CMAKE_SOURCE_DIR}/include
         ${CMAKE_SOURCE_DIR}/lib/bettermlx/includes
         )
 
-add_executable(cube3D ${SOURCES})
+add_executable(cube3D ${SOURCES} include/cube_errors.h)
 
 target_link_libraries(cube3D libft mlx better)
