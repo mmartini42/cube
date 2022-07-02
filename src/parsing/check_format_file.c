@@ -6,13 +6,13 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 18:02:38 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/02 21:56:40 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/02 21:57:43 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "cube.h"
 
-static void check_format_reverse(const char *path, t_game *game)
+static void	check_format_reverse(const char *path, t_game *game)
 {
 	size_t	size;
 	size_t	i;
