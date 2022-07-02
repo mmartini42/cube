@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "cube_struct.h"
+#include "cube.h"
 
 static t_texture	*init_texture_struct(void)
 {
