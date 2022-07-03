@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmlx.a CMakeFiles/mlx.dir/lib/minilibx/font.c.o CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmlx.a

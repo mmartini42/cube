@@ -110,6 +110,7 @@ SOURCES += ft_split.c
 SOURCES += ft_str_endwith.c
 SOURCES += ft_strcmp.c
 SOURCES += ft_strcpy.c
+SOURCES += ft_strichr.c
 SOURCES += ft_strdup.c
 SOURCES += ft_strlen.c
 SOURCES += ft_strmult_back.c

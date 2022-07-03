@@ -60,3 +60,5 @@ _*
 *.log
 .vscode/
 build/
+./build/
+build
