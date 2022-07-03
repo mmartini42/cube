@@ -60,3 +60,4 @@ _*
 *.log
 .vscode/
 build/
+./build/
