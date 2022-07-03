@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:01:01 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 20:00:23 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/03 15:17:08 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@ int	main(int ac, char **av)
 		ft_putstr_errnl("Error need more arguments !");
 	game = init_main_struct();
 	parse_map(game, av);
+	return (EXIT_SUCCESS);
 }
 
 //free all

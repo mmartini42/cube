@@ -33,6 +33,7 @@ typedef struct s_map
 	char	*path;
 	size_t	start;
 }				t_map;
+
 //Main struct
 typedef struct s_game
 {
@@ -40,4 +41,4 @@ typedef struct s_game
 	t_texture	*texture;
 }			t_game;
 
-#endif //CUBE_CUBE_STRUCT_H
+#endif

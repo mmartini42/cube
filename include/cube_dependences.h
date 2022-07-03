@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:04:44 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 17:07:39 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/03 00:49:06 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,5 +19,7 @@
 # include <fcntl.h>
 # include <stdbool.h>
 # include <math.h>
+
+# define TRANSPARENCY 0
 
 #endif

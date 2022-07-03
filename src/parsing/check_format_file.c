@@ -62,6 +62,6 @@ void	check_file_map(t_game *game, char *path)
 	fd = open(path, O_RDONLY);
 	if (fd == -1)
 		check_parse_error(OPEN_FAILURE, game);
-	if (!read(fd, 0, 0))
+	if (read(fd, 0, 0))
 		check_parse_error(EMPTY_FILE, game);
 }

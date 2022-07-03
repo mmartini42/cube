@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 19:16:48 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/04 00:47:50 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@ static char	*read_file(char *path)
 	char	*buff;
 	int		fd;
 
-	buff = malloc(sizeof(char) * size_read(path) + 1);
+	buff = ft_calloc(ft_strlen(path) + 1, sizeof(char));
 	if (!buff)
 		return (NULL);
 	fd = open(path, O_RDONLY);
@@ -44,6 +44,38 @@ static char	*read_file(char *path)
 	return (buff);
 }
 
+void	*destroy_string_array(char **string_array)
+{
+	size_t	index;
+
+	if (string_array != NULL)
+	{
+		index = 0;
+		while ((string_array)[index])
+		{
+			free((string_array)[index]);
+			(string_array)[index] = NULL;
+			index++;
+		}
+		free(string_array);
+		string_array = NULL;
+	}
+	return (NULL);
+}
+
+void free_struct(t_game *game) {
+	free(game->texture->n_path);
+	free(game->texture->s_path);
+	free(game->texture->w_path);
+	free(game->texture->e_path);
+	free(game->texture);
+	free(game->map);
+	game->texture = NULL;
+	game->map = NULL;
+	free(game);
+	game = NULL;
+}
+
 void	parse_map(t_game *game, char **av)
 {
 	char	*file;
@@ -51,7 +83,9 @@ void	parse_map(t_game *game, char **av)
 	check_file_map(game, av[1]);
 	file = read_file(av[1]);
 	game->map->file = ft_split(file, "\n");
-	free(file);
 	get_map_info(game);
-	free(game->map->file);
+	destroy_string_array(game->map->file);
+	free(file);
+	free_struct(game);
 }
+

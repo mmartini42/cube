@@ -213,4 +213,12 @@ void	*ft_destroy_string_array(char ***string_array);
 */
 char	**copy_str_array(char **str_array);
 
+/*
+**	Find position of the to_find char.
+**	./strings/ft_strichr.c
+**	Return:
+**	Position or -1.
+*/
+int	ft_strichr(const char *str, int to_find);
+
 #endif
