@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/03 01:08:06 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/04 01:49:13 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/04 02:10:24 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -75,7 +75,7 @@ t_color	add_color(const char *info, t_game *game)
 		i++;
 	}
 	value[j] = NULL;
-	color = create_color(TRANSPARENCY,to_convert(&value[0]),\
+	color = create_color(TRANSPARENCY, to_convert(&value[0]), \
 		to_convert(&value[1]), to_convert(&value[2]));
 	free(value);
 	value = NULL;

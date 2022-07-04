@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/04 00:47:50 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/04 02:09:54 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,18 +63,18 @@ void	*destroy_string_array(char **string_array)
 	return (NULL);
 }
 
-void free_struct(t_game *game) {
-	free(game->texture->n_path);
-	free(game->texture->s_path);
-	free(game->texture->w_path);
-	free(game->texture->e_path);
-	free(game->texture);
-	free(game->map);
-	game->texture = NULL;
-	game->map = NULL;
-	free(game);
-	game = NULL;
-}
+//void free_struct(t_game *game) {
+//	free(game->texture->n_path);
+//	free(game->texture->s_path);
+//	free(game->texture->w_path);
+//	free(game->texture->e_path);
+//	free(game->texture);
+//	free(game->map);
+//	game->texture = NULL;
+//	game->map = NULL;
+//	free(game);
+//	game = NULL;
+//}
 
 void	parse_map(t_game *game, char **av)
 {
@@ -86,6 +86,5 @@ void	parse_map(t_game *game, char **av)
 	get_map_info(game);
 	destroy_string_array(game->map->file);
 	free(file);
-	free_struct(game);
+//	free_struct(game);
 }
-
