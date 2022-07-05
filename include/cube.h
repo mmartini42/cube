@@ -13,11 +13,11 @@
 #ifndef CUBE_CUBE_H
 #define CUBE_CUBE_H
 
-# include "cube_dependences.h"
-# include "cube_struct.h"
 # include <libft.h>
 # include <mlx.h>
 # include <bettermlx.h>
+# include "cube_dependences.h"
+# include "cube_struct.h"
 # include "cube_function.h"
 # include "cube_errors.h"
 

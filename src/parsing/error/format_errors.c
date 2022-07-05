@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 18:10:03 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 20:17:53 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/04 17:37:52 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,7 +50,7 @@ static void	error_empty_file(t_game *game)
 
 static void	error_format_file(t_game *game)
 {
-	ft_putstr_errnl("Error ! need a .cub file");
+	ft_putstr_errnl("Error ! need a correct format file need .cub file");
 	free(game->texture);
 	free(game->map);
 	game->texture = NULL;
@@ -68,6 +68,6 @@ void	check_parse_error(int error, t_game *game)
 		error_open_file(game);
 	else if (error == EMPTY_FILE)
 		error_empty_file(game);
-	else if (error == NOT_BER)
+	else if (error == NOT_CUB)
 		error_format_file(game);
 }

@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/03 01:08:06 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/04 02:10:24 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 01:11:41 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -67,11 +67,10 @@ t_color	add_color(const char *info, t_game *game)
 	if (i <= 0)
 		error_colors(game);
 	value = ft_calloc(4, sizeof(char *));
-	j = 0;
-	while (info[i] && j < 3)
+	j = -1;
+	while (info[i] && ++j < 3)
 	{
 		value[j] = get_color_value(&i, info);
-		j++;
 		i++;
 	}
 	value[j] = NULL;

@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 18:51:36 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/04 02:09:24 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 20:45:36 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,6 +34,20 @@ static void	get_info(t_game *game, char *tofind, char **texture)
 	}
 }
 
+static bool	check_debug(t_game *game)
+{
+	size_t	i;
+
+	i = 0;
+	while (game->map->file[i])
+	{
+		if (ft_strncmp(game->map->file[i], "D", 1) == 0)
+			game->debug = true;
+		i++;
+	}
+	return (false);
+}
+
 static void	get_colors(t_game *game, char *to_find, t_color *color)
 {
 	size_t	i;
@@ -41,12 +55,28 @@ static void	get_colors(t_game *game, char *to_find, t_color *color)
 	i = 0;
 	while (game->map->file[i])
 	{
-		if (ft_strncmp(game->map->file[i], to_find, ft_strlen(to_find)) == 0)
+		if (game->debug == false
+			&& ft_strncmp(game->map->file[i], to_find, ft_strlen(to_find)) == 0)
 		{
 			*color = add_color(game->map->file[i], game);
 			i++;
 		}
 		i++;
+	}
+}
+
+static void	check_image_path(t_game *game)
+{
+	game->texture->n_path = check_path_texture(game, game->texture->n_path);
+	game->texture->s_path = check_path_texture(game, game->texture->s_path);
+	game->texture->e_path = check_path_texture(game, game->texture->e_path);
+	game->texture->w_path = check_path_texture(game, game->texture->w_path);
+	if (game->debug == true)
+	{
+		game->texture->d_floor = check_path_texture(game,
+				game->texture->d_floor);
+		game->texture->d_ceilling = check_path_texture(game,
+				game->texture->d_ceilling);
 	}
 }
 
@@ -56,7 +86,17 @@ void	get_map_info(t_game *game)
 	get_info(game, "SO", &game->texture->s_path);
 	get_info(game, "WE", &game->texture->w_path);
 	get_info(game, "EA", &game->texture->e_path);
-	get_colors(game, "F", &game->texture->floor);
-	get_colors(game, "C", &game->texture->ceiling);
-//	check_info(game);
+	check_debug(game);
+	if (game->debug == false)
+	{
+		get_colors(game, "F", &game->texture->floor);
+		get_colors(game, "C", &game->texture->ceiling);
+	}
+	else
+	{
+		get_info(game, "F", &game->texture->d_floor);
+		get_info(game, "C", &game->texture->d_ceilling);
+	}
+	check_image_path(game);
+//	get_image_xpm(game);
 }

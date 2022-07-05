@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/04 02:09:54 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 20:42:58 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,28 +63,17 @@ void	*destroy_string_array(char **string_array)
 	return (NULL);
 }
 
-//void free_struct(t_game *game) {
-//	free(game->texture->n_path);
-//	free(game->texture->s_path);
-//	free(game->texture->w_path);
-//	free(game->texture->e_path);
-//	free(game->texture);
-//	free(game->map);
-//	game->texture = NULL;
-//	game->map = NULL;
-//	free(game);
-//	game = NULL;
-//}
-
 void	parse_map(t_game *game, char **av)
 {
 	char	*file;
 
-	check_file_map(game, av[1]);
+	check_format_file_cub(game, av[1], ".cub");
 	file = read_file(av[1]);
 	game->map->file = ft_split(file, "\n");
 	get_map_info(game);
+	printf("test 2 \n");
+	//TODO : recupere la map et verifier ca validite
 	destroy_string_array(game->map->file);
 	free(file);
-//	free_struct(game);
+	file = NULL;
 }

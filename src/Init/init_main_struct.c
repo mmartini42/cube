@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:14:10 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/01 20:01:10 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 20:41:20 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,8 @@ static t_texture	*init_texture_struct(void)
 	texture->s_path = NULL;
 	texture->e_path = NULL;
 	texture->w_path = NULL;
+	texture->d_floor = NULL;
+	texture->d_ceilling = NULL;
 	return (texture);
 }
 
@@ -50,5 +52,15 @@ t_game 	*init_main_struct(void)
 		return (NULL);
 	game->map = init_map_struct();
 	game->texture = init_texture_struct();
+//	game->window = bettermlx_init_window("Cub3D", WIN_WIDTH, WIN_HEIGHT,
+//			 WIN_DIVIDER);
+	game->n_image = NULL;
+	game->s_image = NULL;
+	game->w_image = NULL;
+	game->e_image = NULL;
+	game->d_floor = NULL;
+	game->d_ceiling = NULL;
+	game->debug = false;
+//	mlx_loop(game->window->mlx_ptr);
 	return (game);
 }
