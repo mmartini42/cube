@@ -6,7 +6,7 @@
 #    By: mathmart <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/06/25 14:46:28 by mathmart          #+#    #+#              #
-#    Updated: 2022/07/01 20:19:17 by mathismartini    ###   ########.fr        #
+#    Updated: 2022/07/04 22:59:42 by mathismartini    ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -45,7 +45,7 @@ CFLAGS		= -Wall -Werror -Wextra -glldb -O3 -Ofast -flto -march=native -ffast-mat
 LIBFT		= ./lib/libft/libft.a
 MLX			= ./lib/minilibx/libmlx.a
 BETTER		= ./lib/bettermlx/libbettermlx.a
-INCLUDES	= -I ./lib/minilibx -I ./lib/libft -I ./lib/bettermlx/includes -I ./Include
+INCLUDES	= -I ./lib/minilibx -I ./lib/libft -I ./lib/bettermlx/ -I ./Include
 INC_LIB		= -L ./lib/minilibx -L ./lib/bettermlx/ -lbettermlx
 LIB			= -lmlx $(INC_LIB) $(INC_INC) -L ./lib/libft/ -lft -lm
 CONFIG		= $(shell find [0-9a-zA-Z]* -type d -name "Config")
@@ -83,7 +83,7 @@ $(OBJ_DIR):
 #################################################################################
 
 $(TARGET): $(LIBFT) $(MLX) $(BETTER) $(HEADS) $(OBJ_PATH)
-	@gcc $(LIB) $(CFLAGS) $(OBJ_PATH) -o $(TARGET)
+	@gcc $(LIB) -framework OpenGL -framework AppKit $(CFLAGS) $(OBJ_PATH) -o $(TARGET)
 	@printf "\033[2K\r$(BLUE)$(NAME)$(RESET)$(BLUEE): $(ICONOK)Compiled [√]$(RESET)\n"
 
 #################################################################################
