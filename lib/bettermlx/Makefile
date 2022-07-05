@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/07/05 21:08:39 by mathismartini     #+#    #+#              #
+#    Updated: 2022/07/05 21:08:39 by mathismartini    ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 NAME		= libbettermlx.a
 
 SRCS		= bettermlx_clean_display.c bettermlx_destroy_image.c \
@@ -12,7 +24,7 @@ OBJS		= $(SRCS:%.c=%.o)
 all: $(NAME)
 
 $(NAME): $(OBJS)
-	@ar -r $(NAME) $(OBJS) $(LIBFT) $(MLX)
+	@ar -r $(NAME) $(OBJS)
 	@ranlib $(NAME)
 
 clean:
