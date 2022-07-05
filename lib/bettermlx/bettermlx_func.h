@@ -6,7 +6,7 @@
 /*   By: mathmart <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/25 11:42:09 by mathmart          #+#    #+#             */
-/*   Updated: 2022/06/25 19:45:10 by mathmart         ###   ########.fr       */
+/*   Updated: 2022/07/04 21:01:36 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 /*
 **	START CUSTOM INCLUDES
 */
-
+# include "bettermlx_struct.h"
 # include "bettermlx.h"
 /*
 **	END CUSTOM INCLUDES
