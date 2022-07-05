@@ -26,19 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 41,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 43,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 35,
+				"line" : 36,
 				"parent" : 0
 			}
 		]
@@ -49,7 +49,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk"
+					"fragment" : "-Wdeprecated-declarations -O3 -Ofast -flto -march=native -ffast-math -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk"
 				},
 				{
 					"fragment" : "-std=gnu99"
@@ -103,15 +103,15 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "libft::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "mlx::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "better::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "libft::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "cube3D::@6890427a1f51a3e7e1df",
@@ -120,12 +120,22 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-Wdeprecated-declarations -O3 -Ofast -flto -march=native -ffast-math -g",
 				"role" : "flags"
 			},
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-framework OpenGL -framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lm",
+				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,

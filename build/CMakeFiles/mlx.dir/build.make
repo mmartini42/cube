@@ -69,111 +69,95 @@ include CMakeFiles/mlx.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/mlx.dir/flags.make
 
-CMakeFiles/mlx.dir/lib/minilibx/font.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/font.c.o: ../lib/minilibx/font.c
-CMakeFiles/mlx.dir/lib/minilibx/font.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/mlx.dir/lib/minilibx/font.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/font.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/font.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/font.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/font.c
+CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o: CMakeFiles/mlx.dir/flags.make
+CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o: ../lib/minilibx/mlx_init_loop.m
+CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o: CMakeFiles/mlx.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_init_loop.m
 
-CMakeFiles/mlx.dir/lib/minilibx/font.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/font.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/font.c > CMakeFiles/mlx.dir/lib/minilibx/font.c.i
+CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_init_loop.m > CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.i
 
-CMakeFiles/mlx.dir/lib/minilibx/font.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/font.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/font.c -o CMakeFiles/mlx.dir/lib/minilibx/font.c.s
+CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_init_loop.m -o CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.s
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o: ../lib/minilibx/mlx_int_str_to_wordtab.c
-CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_int_str_to_wordtab.c
+CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o: CMakeFiles/mlx.dir/flags.make
+CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o: ../lib/minilibx/mlx_mouse.m
+CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o: CMakeFiles/mlx.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_mouse.m
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_int_str_to_wordtab.c > CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.i
+CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_mouse.m > CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.i
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_int_str_to_wordtab.c -o CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.s
+CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_mouse.m -o CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.s
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o: ../lib/minilibx/mlx_png.c
-CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_png.c
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o: CMakeFiles/mlx.dir/flags.make
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o: ../lib/minilibx/mlx_new_image.m
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o: CMakeFiles/mlx.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_image.m
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_png.c > CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.i
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_image.m > CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.i
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_png.c -o CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.s
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_image.m -o CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.s
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o: ../lib/minilibx/mlx_rgb.c
-CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_rgb.c
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o: CMakeFiles/mlx.dir/flags.make
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o: ../lib/minilibx/mlx_new_window.m
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o: CMakeFiles/mlx.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_window.m
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_rgb.c > CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.i
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_window.m > CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.i
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_rgb.c -o CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.s
+CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_window.m -o CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.s
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o: ../lib/minilibx/mlx_shaders.c
-CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_shaders.c
+CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o: CMakeFiles/mlx.dir/flags.make
+CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o: ../lib/minilibx/mlx_opengl.m
+CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o: CMakeFiles/mlx.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_opengl.m
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_shaders.c > CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.i
+CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_opengl.m > CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.i
 
-CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_shaders.c -o CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.s
-
-CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o: CMakeFiles/mlx.dir/flags.make
-CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o: ../lib/minilibx/mlx_xpm.c
-CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o: CMakeFiles/mlx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o -MF CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o.d -o CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o -c /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_xpm.c
-
-CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_xpm.c > CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.i
-
-CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_xpm.c -o CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.s
+CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_opengl.m -o CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.s
 
 # Object files for target mlx
 mlx_OBJECTS = \
-"CMakeFiles/mlx.dir/lib/minilibx/font.c.o" \
-"CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o" \
-"CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o" \
-"CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o" \
-"CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o" \
-"CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o"
+"CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o" \
+"CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o" \
+"CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o" \
+"CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o" \
+"CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o"
 
 # External object files for target mlx
 mlx_EXTERNAL_OBJECTS =
 
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/font.c.o
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o
-libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o
+libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o
+libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o
+libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o
+libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o
+libmlx.a: CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o
 libmlx.a: CMakeFiles/mlx.dir/build.make
 libmlx.a: CMakeFiles/mlx.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C static library libmlx.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C static library libmlx.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/mlx.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mlx.dir/link.txt --verbose=$(VERBOSE)
 

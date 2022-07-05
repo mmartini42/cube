@@ -45,28 +45,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "better::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-better-Debug-7b46471845ba59716369.json",
+					"jsonFile" : "target-better-Debug-991247d4b5d0599dd3e2.json",
 					"name" : "better",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "cube3D::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cube3D-Debug-bd0caedc06bef05b33a1.json",
+					"jsonFile" : "target-cube3D-Debug-cebf740b89163581c8c1.json",
 					"name" : "cube3D",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "libft::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-libft-Debug-536a7b44db014297872e.json",
+					"jsonFile" : "target-libft-Debug-64243ab6935ae1650ddd.json",
 					"name" : "libft",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "mlx::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-mlx-Debug-0b8aa689009d9d0286dc.json",
+					"jsonFile" : "target-mlx-Debug-6042e0e9349ee64958de.json",
 					"name" : "mlx",
 					"projectIndex" : 0
 				}

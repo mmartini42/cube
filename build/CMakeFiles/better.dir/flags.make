@@ -4,7 +4,7 @@
 # compile C with /Library/Developer/CommandLineTools/usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx/includes
+C_INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
 
-C_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+C_FLAGS = -Wdeprecated-declarations -O3 -Ofast -flto -march=native -ffast-math -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
 

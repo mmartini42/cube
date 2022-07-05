@@ -168,365 +168,365 @@ cube3D/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/build
 .PHONY : cube3D/fast
 
-lib/bettermlx/src/display/bettermlx_clean_display.o: lib/bettermlx/src/display/bettermlx_clean_display.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.o
+lib/bettermlx/bettermlx_clean_display.o: lib/bettermlx/bettermlx_clean_display.c.o
+.PHONY : lib/bettermlx/bettermlx_clean_display.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_clean_display.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.c.o
+lib/bettermlx/bettermlx_clean_display.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o
+.PHONY : lib/bettermlx/bettermlx_clean_display.c.o
 
-lib/bettermlx/src/display/bettermlx_clean_display.i: lib/bettermlx/src/display/bettermlx_clean_display.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.i
+lib/bettermlx/bettermlx_clean_display.i: lib/bettermlx/bettermlx_clean_display.c.i
+.PHONY : lib/bettermlx/bettermlx_clean_display.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_clean_display.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.c.i
+lib/bettermlx/bettermlx_clean_display.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.i
+.PHONY : lib/bettermlx/bettermlx_clean_display.c.i
 
-lib/bettermlx/src/display/bettermlx_clean_display.s: lib/bettermlx/src/display/bettermlx_clean_display.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.s
+lib/bettermlx/bettermlx_clean_display.s: lib/bettermlx/bettermlx_clean_display.c.s
+.PHONY : lib/bettermlx/bettermlx_clean_display.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_clean_display.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_clean_display.c.s
+lib/bettermlx/bettermlx_clean_display.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.s
+.PHONY : lib/bettermlx/bettermlx_clean_display.c.s
 
-lib/bettermlx/src/display/bettermlx_draw_line.o: lib/bettermlx/src/display/bettermlx_draw_line.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.o
+lib/bettermlx/bettermlx_destroy_image.o: lib/bettermlx/bettermlx_destroy_image.c.o
+.PHONY : lib/bettermlx/bettermlx_destroy_image.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_draw_line.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.c.o
+lib/bettermlx/bettermlx_destroy_image.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o
+.PHONY : lib/bettermlx/bettermlx_destroy_image.c.o
 
-lib/bettermlx/src/display/bettermlx_draw_line.i: lib/bettermlx/src/display/bettermlx_draw_line.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.i
+lib/bettermlx/bettermlx_destroy_image.i: lib/bettermlx/bettermlx_destroy_image.c.i
+.PHONY : lib/bettermlx/bettermlx_destroy_image.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_draw_line.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.c.i
+lib/bettermlx/bettermlx_destroy_image.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.i
+.PHONY : lib/bettermlx/bettermlx_destroy_image.c.i
 
-lib/bettermlx/src/display/bettermlx_draw_line.s: lib/bettermlx/src/display/bettermlx_draw_line.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.s
+lib/bettermlx/bettermlx_destroy_image.s: lib/bettermlx/bettermlx_destroy_image.c.s
+.PHONY : lib/bettermlx/bettermlx_destroy_image.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_draw_line.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_draw_line.c.s
+lib/bettermlx/bettermlx_destroy_image.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.s
+.PHONY : lib/bettermlx/bettermlx_destroy_image.c.s
 
-lib/bettermlx/src/display/bettermlx_get_color.o: lib/bettermlx/src/display/bettermlx_get_color.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.o
+lib/bettermlx/bettermlx_destroy_window.o: lib/bettermlx/bettermlx_destroy_window.c.o
+.PHONY : lib/bettermlx/bettermlx_destroy_window.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_get_color.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.c.o
+lib/bettermlx/bettermlx_destroy_window.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o
+.PHONY : lib/bettermlx/bettermlx_destroy_window.c.o
 
-lib/bettermlx/src/display/bettermlx_get_color.i: lib/bettermlx/src/display/bettermlx_get_color.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.i
+lib/bettermlx/bettermlx_destroy_window.i: lib/bettermlx/bettermlx_destroy_window.c.i
+.PHONY : lib/bettermlx/bettermlx_destroy_window.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_get_color.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.c.i
+lib/bettermlx/bettermlx_destroy_window.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.i
+.PHONY : lib/bettermlx/bettermlx_destroy_window.c.i
 
-lib/bettermlx/src/display/bettermlx_get_color.s: lib/bettermlx/src/display/bettermlx_get_color.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.s
+lib/bettermlx/bettermlx_destroy_window.s: lib/bettermlx/bettermlx_destroy_window.c.s
+.PHONY : lib/bettermlx/bettermlx_destroy_window.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_get_color.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_get_color.c.s
+lib/bettermlx/bettermlx_destroy_window.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.s
+.PHONY : lib/bettermlx/bettermlx_destroy_window.c.s
 
-lib/bettermlx/src/display/bettermlx_get_memory_position.o: lib/bettermlx/src/display/bettermlx_get_memory_position.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.o
+lib/bettermlx/bettermlx_draw_line.o: lib/bettermlx/bettermlx_draw_line.c.o
+.PHONY : lib/bettermlx/bettermlx_draw_line.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_get_memory_position.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.c.o
+lib/bettermlx/bettermlx_draw_line.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o
+.PHONY : lib/bettermlx/bettermlx_draw_line.c.o
 
-lib/bettermlx/src/display/bettermlx_get_memory_position.i: lib/bettermlx/src/display/bettermlx_get_memory_position.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.i
+lib/bettermlx/bettermlx_draw_line.i: lib/bettermlx/bettermlx_draw_line.c.i
+.PHONY : lib/bettermlx/bettermlx_draw_line.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_get_memory_position.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.c.i
+lib/bettermlx/bettermlx_draw_line.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.i
+.PHONY : lib/bettermlx/bettermlx_draw_line.c.i
 
-lib/bettermlx/src/display/bettermlx_get_memory_position.s: lib/bettermlx/src/display/bettermlx_get_memory_position.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.s
+lib/bettermlx/bettermlx_draw_line.s: lib/bettermlx/bettermlx_draw_line.c.s
+.PHONY : lib/bettermlx/bettermlx_draw_line.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_get_memory_position.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_get_memory_position.c.s
+lib/bettermlx/bettermlx_draw_line.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.s
+.PHONY : lib/bettermlx/bettermlx_draw_line.c.s
 
-lib/bettermlx/src/display/bettermlx_pixel_put.o: lib/bettermlx/src/display/bettermlx_pixel_put.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.o
+lib/bettermlx/bettermlx_get_color.o: lib/bettermlx/bettermlx_get_color.c.o
+.PHONY : lib/bettermlx/bettermlx_get_color.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_pixel_put.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.c.o
+lib/bettermlx/bettermlx_get_color.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o
+.PHONY : lib/bettermlx/bettermlx_get_color.c.o
 
-lib/bettermlx/src/display/bettermlx_pixel_put.i: lib/bettermlx/src/display/bettermlx_pixel_put.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.i
+lib/bettermlx/bettermlx_get_color.i: lib/bettermlx/bettermlx_get_color.c.i
+.PHONY : lib/bettermlx/bettermlx_get_color.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_pixel_put.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.c.i
+lib/bettermlx/bettermlx_get_color.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.i
+.PHONY : lib/bettermlx/bettermlx_get_color.c.i
 
-lib/bettermlx/src/display/bettermlx_pixel_put.s: lib/bettermlx/src/display/bettermlx_pixel_put.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.s
+lib/bettermlx/bettermlx_get_color.s: lib/bettermlx/bettermlx_get_color.c.s
+.PHONY : lib/bettermlx/bettermlx_get_color.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_pixel_put.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_pixel_put.c.s
+lib/bettermlx/bettermlx_get_color.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.s
+.PHONY : lib/bettermlx/bettermlx_get_color.c.s
 
-lib/bettermlx/src/display/bettermlx_put_image.o: lib/bettermlx/src/display/bettermlx_put_image.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.o
+lib/bettermlx/bettermlx_get_memory_position.o: lib/bettermlx/bettermlx_get_memory_position.c.o
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_put_image.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.c.o
+lib/bettermlx/bettermlx_get_memory_position.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.c.o
 
-lib/bettermlx/src/display/bettermlx_put_image.i: lib/bettermlx/src/display/bettermlx_put_image.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.i
+lib/bettermlx/bettermlx_get_memory_position.i: lib/bettermlx/bettermlx_get_memory_position.c.i
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_put_image.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.c.i
+lib/bettermlx/bettermlx_get_memory_position.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.i
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.c.i
 
-lib/bettermlx/src/display/bettermlx_put_image.s: lib/bettermlx/src/display/bettermlx_put_image.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.s
+lib/bettermlx/bettermlx_get_memory_position.s: lib/bettermlx/bettermlx_get_memory_position.c.s
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_put_image.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_put_image.c.s
+lib/bettermlx/bettermlx_get_memory_position.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.s
+.PHONY : lib/bettermlx/bettermlx_get_memory_position.c.s
 
-lib/bettermlx/src/display/bettermlx_render.o: lib/bettermlx/src/display/bettermlx_render.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_render.o
+lib/bettermlx/bettermlx_hook.o: lib/bettermlx/bettermlx_hook.c.o
+.PHONY : lib/bettermlx/bettermlx_hook.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_render.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_render.c.o
+lib/bettermlx/bettermlx_hook.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o
+.PHONY : lib/bettermlx/bettermlx_hook.c.o
 
-lib/bettermlx/src/display/bettermlx_render.i: lib/bettermlx/src/display/bettermlx_render.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_render.i
+lib/bettermlx/bettermlx_hook.i: lib/bettermlx/bettermlx_hook.c.i
+.PHONY : lib/bettermlx/bettermlx_hook.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_render.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_render.c.i
+lib/bettermlx/bettermlx_hook.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.i
+.PHONY : lib/bettermlx/bettermlx_hook.c.i
 
-lib/bettermlx/src/display/bettermlx_render.s: lib/bettermlx/src/display/bettermlx_render.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_render.s
+lib/bettermlx/bettermlx_hook.s: lib/bettermlx/bettermlx_hook.c.s
+.PHONY : lib/bettermlx/bettermlx_hook.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_render.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_render.c.s
+lib/bettermlx/bettermlx_hook.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.s
+.PHONY : lib/bettermlx/bettermlx_hook.c.s
 
-lib/bettermlx/src/display/bettermlx_set_color.o: lib/bettermlx/src/display/bettermlx_set_color.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.o
+lib/bettermlx/bettermlx_init_image.o: lib/bettermlx/bettermlx_init_image.c.o
+.PHONY : lib/bettermlx/bettermlx_init_image.o
 
 # target to build an object file
-lib/bettermlx/src/display/bettermlx_set_color.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.c.o
+lib/bettermlx/bettermlx_init_image.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o
+.PHONY : lib/bettermlx/bettermlx_init_image.c.o
 
-lib/bettermlx/src/display/bettermlx_set_color.i: lib/bettermlx/src/display/bettermlx_set_color.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.i
+lib/bettermlx/bettermlx_init_image.i: lib/bettermlx/bettermlx_init_image.c.i
+.PHONY : lib/bettermlx/bettermlx_init_image.i
 
 # target to preprocess a source file
-lib/bettermlx/src/display/bettermlx_set_color.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.i
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.c.i
+lib/bettermlx/bettermlx_init_image.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.i
+.PHONY : lib/bettermlx/bettermlx_init_image.c.i
 
-lib/bettermlx/src/display/bettermlx_set_color.s: lib/bettermlx/src/display/bettermlx_set_color.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.s
+lib/bettermlx/bettermlx_init_image.s: lib/bettermlx/bettermlx_init_image.c.s
+.PHONY : lib/bettermlx/bettermlx_init_image.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/display/bettermlx_set_color.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.s
-.PHONY : lib/bettermlx/src/display/bettermlx_set_color.c.s
+lib/bettermlx/bettermlx_init_image.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.s
+.PHONY : lib/bettermlx/bettermlx_init_image.c.s
 
-lib/bettermlx/src/hook/bettermlx_hook.o: lib/bettermlx/src/hook/bettermlx_hook.c.o
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.o
+lib/bettermlx/bettermlx_init_window.o: lib/bettermlx/bettermlx_init_window.c.o
+.PHONY : lib/bettermlx/bettermlx_init_window.o
 
 # target to build an object file
-lib/bettermlx/src/hook/bettermlx_hook.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.c.o
+lib/bettermlx/bettermlx_init_window.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o
+.PHONY : lib/bettermlx/bettermlx_init_window.c.o
 
-lib/bettermlx/src/hook/bettermlx_hook.i: lib/bettermlx/src/hook/bettermlx_hook.c.i
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.i
+lib/bettermlx/bettermlx_init_window.i: lib/bettermlx/bettermlx_init_window.c.i
+.PHONY : lib/bettermlx/bettermlx_init_window.i
 
 # target to preprocess a source file
-lib/bettermlx/src/hook/bettermlx_hook.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.i
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.c.i
+lib/bettermlx/bettermlx_init_window.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.i
+.PHONY : lib/bettermlx/bettermlx_init_window.c.i
 
-lib/bettermlx/src/hook/bettermlx_hook.s: lib/bettermlx/src/hook/bettermlx_hook.c.s
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.s
+lib/bettermlx/bettermlx_init_window.s: lib/bettermlx/bettermlx_init_window.c.s
+.PHONY : lib/bettermlx/bettermlx_init_window.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/hook/bettermlx_hook.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.s
-.PHONY : lib/bettermlx/src/hook/bettermlx_hook.c.s
+lib/bettermlx/bettermlx_init_window.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.s
+.PHONY : lib/bettermlx/bettermlx_init_window.c.s
 
-lib/bettermlx/src/hook/bettermlx_register_loop.o: lib/bettermlx/src/hook/bettermlx_register_loop.c.o
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.o
+lib/bettermlx/bettermlx_init_xpm_image.o: lib/bettermlx/bettermlx_init_xpm_image.c.o
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.o
 
 # target to build an object file
-lib/bettermlx/src/hook/bettermlx_register_loop.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.c.o
+lib/bettermlx/bettermlx_init_xpm_image.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.c.o
 
-lib/bettermlx/src/hook/bettermlx_register_loop.i: lib/bettermlx/src/hook/bettermlx_register_loop.c.i
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.i
+lib/bettermlx/bettermlx_init_xpm_image.i: lib/bettermlx/bettermlx_init_xpm_image.c.i
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.i
 
 # target to preprocess a source file
-lib/bettermlx/src/hook/bettermlx_register_loop.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.i
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.c.i
+lib/bettermlx/bettermlx_init_xpm_image.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.i
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.c.i
 
-lib/bettermlx/src/hook/bettermlx_register_loop.s: lib/bettermlx/src/hook/bettermlx_register_loop.c.s
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.s
+lib/bettermlx/bettermlx_init_xpm_image.s: lib/bettermlx/bettermlx_init_xpm_image.c.s
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/hook/bettermlx_register_loop.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.s
-.PHONY : lib/bettermlx/src/hook/bettermlx_register_loop.c.s
+lib/bettermlx/bettermlx_init_xpm_image.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.s
+.PHONY : lib/bettermlx/bettermlx_init_xpm_image.c.s
 
-lib/bettermlx/src/window/bettermlx_destroy_image.o: lib/bettermlx/src/window/bettermlx_destroy_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.o
+lib/bettermlx/bettermlx_pixel_put.o: lib/bettermlx/bettermlx_pixel_put.c.o
+.PHONY : lib/bettermlx/bettermlx_pixel_put.o
 
 # target to build an object file
-lib/bettermlx/src/window/bettermlx_destroy_image.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.c.o
+lib/bettermlx/bettermlx_pixel_put.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o
+.PHONY : lib/bettermlx/bettermlx_pixel_put.c.o
 
-lib/bettermlx/src/window/bettermlx_destroy_image.i: lib/bettermlx/src/window/bettermlx_destroy_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.i
+lib/bettermlx/bettermlx_pixel_put.i: lib/bettermlx/bettermlx_pixel_put.c.i
+.PHONY : lib/bettermlx/bettermlx_pixel_put.i
 
 # target to preprocess a source file
-lib/bettermlx/src/window/bettermlx_destroy_image.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.c.i
+lib/bettermlx/bettermlx_pixel_put.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.i
+.PHONY : lib/bettermlx/bettermlx_pixel_put.c.i
 
-lib/bettermlx/src/window/bettermlx_destroy_image.s: lib/bettermlx/src/window/bettermlx_destroy_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.s
+lib/bettermlx/bettermlx_pixel_put.s: lib/bettermlx/bettermlx_pixel_put.c.s
+.PHONY : lib/bettermlx/bettermlx_pixel_put.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/window/bettermlx_destroy_image.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_image.c.s
+lib/bettermlx/bettermlx_pixel_put.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.s
+.PHONY : lib/bettermlx/bettermlx_pixel_put.c.s
 
-lib/bettermlx/src/window/bettermlx_destroy_window.o: lib/bettermlx/src/window/bettermlx_destroy_window.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.o
+lib/bettermlx/bettermlx_put_image.o: lib/bettermlx/bettermlx_put_image.c.o
+.PHONY : lib/bettermlx/bettermlx_put_image.o
 
 # target to build an object file
-lib/bettermlx/src/window/bettermlx_destroy_window.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.c.o
+lib/bettermlx/bettermlx_put_image.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o
+.PHONY : lib/bettermlx/bettermlx_put_image.c.o
 
-lib/bettermlx/src/window/bettermlx_destroy_window.i: lib/bettermlx/src/window/bettermlx_destroy_window.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.i
+lib/bettermlx/bettermlx_put_image.i: lib/bettermlx/bettermlx_put_image.c.i
+.PHONY : lib/bettermlx/bettermlx_put_image.i
 
 # target to preprocess a source file
-lib/bettermlx/src/window/bettermlx_destroy_window.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.c.i
+lib/bettermlx/bettermlx_put_image.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.i
+.PHONY : lib/bettermlx/bettermlx_put_image.c.i
 
-lib/bettermlx/src/window/bettermlx_destroy_window.s: lib/bettermlx/src/window/bettermlx_destroy_window.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.s
+lib/bettermlx/bettermlx_put_image.s: lib/bettermlx/bettermlx_put_image.c.s
+.PHONY : lib/bettermlx/bettermlx_put_image.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/window/bettermlx_destroy_window.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_destroy_window.c.s
+lib/bettermlx/bettermlx_put_image.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.s
+.PHONY : lib/bettermlx/bettermlx_put_image.c.s
 
-lib/bettermlx/src/window/bettermlx_init_image.o: lib/bettermlx/src/window/bettermlx_init_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.o
+lib/bettermlx/bettermlx_register_loop.o: lib/bettermlx/bettermlx_register_loop.c.o
+.PHONY : lib/bettermlx/bettermlx_register_loop.o
 
 # target to build an object file
-lib/bettermlx/src/window/bettermlx_init_image.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.c.o
+lib/bettermlx/bettermlx_register_loop.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o
+.PHONY : lib/bettermlx/bettermlx_register_loop.c.o
 
-lib/bettermlx/src/window/bettermlx_init_image.i: lib/bettermlx/src/window/bettermlx_init_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.i
+lib/bettermlx/bettermlx_register_loop.i: lib/bettermlx/bettermlx_register_loop.c.i
+.PHONY : lib/bettermlx/bettermlx_register_loop.i
 
 # target to preprocess a source file
-lib/bettermlx/src/window/bettermlx_init_image.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.c.i
+lib/bettermlx/bettermlx_register_loop.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.i
+.PHONY : lib/bettermlx/bettermlx_register_loop.c.i
 
-lib/bettermlx/src/window/bettermlx_init_image.s: lib/bettermlx/src/window/bettermlx_init_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.s
+lib/bettermlx/bettermlx_register_loop.s: lib/bettermlx/bettermlx_register_loop.c.s
+.PHONY : lib/bettermlx/bettermlx_register_loop.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/window/bettermlx_init_image.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_image.c.s
+lib/bettermlx/bettermlx_register_loop.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.s
+.PHONY : lib/bettermlx/bettermlx_register_loop.c.s
 
-lib/bettermlx/src/window/bettermlx_init_window.o: lib/bettermlx/src/window/bettermlx_init_window.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.o
+lib/bettermlx/bettermlx_render.o: lib/bettermlx/bettermlx_render.c.o
+.PHONY : lib/bettermlx/bettermlx_render.o
 
 # target to build an object file
-lib/bettermlx/src/window/bettermlx_init_window.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.c.o
+lib/bettermlx/bettermlx_render.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o
+.PHONY : lib/bettermlx/bettermlx_render.c.o
 
-lib/bettermlx/src/window/bettermlx_init_window.i: lib/bettermlx/src/window/bettermlx_init_window.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.i
+lib/bettermlx/bettermlx_render.i: lib/bettermlx/bettermlx_render.c.i
+.PHONY : lib/bettermlx/bettermlx_render.i
 
 # target to preprocess a source file
-lib/bettermlx/src/window/bettermlx_init_window.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.c.i
+lib/bettermlx/bettermlx_render.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.i
+.PHONY : lib/bettermlx/bettermlx_render.c.i
 
-lib/bettermlx/src/window/bettermlx_init_window.s: lib/bettermlx/src/window/bettermlx_init_window.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.s
+lib/bettermlx/bettermlx_render.s: lib/bettermlx/bettermlx_render.c.s
+.PHONY : lib/bettermlx/bettermlx_render.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/window/bettermlx_init_window.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_window.c.s
+lib/bettermlx/bettermlx_render.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.s
+.PHONY : lib/bettermlx/bettermlx_render.c.s
 
-lib/bettermlx/src/window/bettermlx_init_xpm_image.o: lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.o
+lib/bettermlx/bettermlx_set_color.o: lib/bettermlx/bettermlx_set_color.c.o
+.PHONY : lib/bettermlx/bettermlx_set_color.o
 
 # target to build an object file
-lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o
+lib/bettermlx/bettermlx_set_color.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o
+.PHONY : lib/bettermlx/bettermlx_set_color.c.o
 
-lib/bettermlx/src/window/bettermlx_init_xpm_image.i: lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.i
+lib/bettermlx/bettermlx_set_color.i: lib/bettermlx/bettermlx_set_color.c.i
+.PHONY : lib/bettermlx/bettermlx_set_color.i
 
 # target to preprocess a source file
-lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i
+lib/bettermlx/bettermlx_set_color.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.i
+.PHONY : lib/bettermlx/bettermlx_set_color.c.i
 
-lib/bettermlx/src/window/bettermlx_init_xpm_image.s: lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.s
+lib/bettermlx/bettermlx_set_color.s: lib/bettermlx/bettermlx_set_color.c.s
+.PHONY : lib/bettermlx/bettermlx_set_color.s
 
 # target to generate assembly for a file
-lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s
-.PHONY : lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s
+lib/bettermlx/bettermlx_set_color.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/better.dir/build.make CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.s
+.PHONY : lib/bettermlx/bettermlx_set_color.c.s
 
 lib/libft/add_vector_coord.o: lib/libft/add_vector_coord.c.o
 .PHONY : lib/libft/add_vector_coord.o
@@ -4680,149 +4680,125 @@ lib/libft/sub_vector_vector.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/libft.dir/build.make CMakeFiles/libft.dir/lib/libft/sub_vector_vector.c.s
 .PHONY : lib/libft/sub_vector_vector.c.s
 
-lib/minilibx/font.o: lib/minilibx/font.c.o
-.PHONY : lib/minilibx/font.o
+lib/minilibx/mlx_init_loop.o: lib/minilibx/mlx_init_loop.m.o
+.PHONY : lib/minilibx/mlx_init_loop.o
 
 # target to build an object file
-lib/minilibx/font.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/font.c.o
-.PHONY : lib/minilibx/font.c.o
+lib/minilibx/mlx_init_loop.m.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o
+.PHONY : lib/minilibx/mlx_init_loop.m.o
 
-lib/minilibx/font.i: lib/minilibx/font.c.i
-.PHONY : lib/minilibx/font.i
+lib/minilibx/mlx_init_loop.i: lib/minilibx/mlx_init_loop.m.i
+.PHONY : lib/minilibx/mlx_init_loop.i
 
 # target to preprocess a source file
-lib/minilibx/font.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/font.c.i
-.PHONY : lib/minilibx/font.c.i
+lib/minilibx/mlx_init_loop.m.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.i
+.PHONY : lib/minilibx/mlx_init_loop.m.i
 
-lib/minilibx/font.s: lib/minilibx/font.c.s
-.PHONY : lib/minilibx/font.s
+lib/minilibx/mlx_init_loop.s: lib/minilibx/mlx_init_loop.m.s
+.PHONY : lib/minilibx/mlx_init_loop.s
 
 # target to generate assembly for a file
-lib/minilibx/font.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/font.c.s
-.PHONY : lib/minilibx/font.c.s
+lib/minilibx/mlx_init_loop.m.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.s
+.PHONY : lib/minilibx/mlx_init_loop.m.s
 
-lib/minilibx/mlx_int_str_to_wordtab.o: lib/minilibx/mlx_int_str_to_wordtab.c.o
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.o
+lib/minilibx/mlx_mouse.o: lib/minilibx/mlx_mouse.m.o
+.PHONY : lib/minilibx/mlx_mouse.o
 
 # target to build an object file
-lib/minilibx/mlx_int_str_to_wordtab.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.c.o
+lib/minilibx/mlx_mouse.m.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o
+.PHONY : lib/minilibx/mlx_mouse.m.o
 
-lib/minilibx/mlx_int_str_to_wordtab.i: lib/minilibx/mlx_int_str_to_wordtab.c.i
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.i
+lib/minilibx/mlx_mouse.i: lib/minilibx/mlx_mouse.m.i
+.PHONY : lib/minilibx/mlx_mouse.i
 
 # target to preprocess a source file
-lib/minilibx/mlx_int_str_to_wordtab.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.i
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.c.i
+lib/minilibx/mlx_mouse.m.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.i
+.PHONY : lib/minilibx/mlx_mouse.m.i
 
-lib/minilibx/mlx_int_str_to_wordtab.s: lib/minilibx/mlx_int_str_to_wordtab.c.s
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.s
+lib/minilibx/mlx_mouse.s: lib/minilibx/mlx_mouse.m.s
+.PHONY : lib/minilibx/mlx_mouse.s
 
 # target to generate assembly for a file
-lib/minilibx/mlx_int_str_to_wordtab.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.s
-.PHONY : lib/minilibx/mlx_int_str_to_wordtab.c.s
+lib/minilibx/mlx_mouse.m.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.s
+.PHONY : lib/minilibx/mlx_mouse.m.s
 
-lib/minilibx/mlx_png.o: lib/minilibx/mlx_png.c.o
-.PHONY : lib/minilibx/mlx_png.o
+lib/minilibx/mlx_new_image.o: lib/minilibx/mlx_new_image.m.o
+.PHONY : lib/minilibx/mlx_new_image.o
 
 # target to build an object file
-lib/minilibx/mlx_png.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o
-.PHONY : lib/minilibx/mlx_png.c.o
+lib/minilibx/mlx_new_image.m.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o
+.PHONY : lib/minilibx/mlx_new_image.m.o
 
-lib/minilibx/mlx_png.i: lib/minilibx/mlx_png.c.i
-.PHONY : lib/minilibx/mlx_png.i
+lib/minilibx/mlx_new_image.i: lib/minilibx/mlx_new_image.m.i
+.PHONY : lib/minilibx/mlx_new_image.i
 
 # target to preprocess a source file
-lib/minilibx/mlx_png.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.i
-.PHONY : lib/minilibx/mlx_png.c.i
+lib/minilibx/mlx_new_image.m.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.i
+.PHONY : lib/minilibx/mlx_new_image.m.i
 
-lib/minilibx/mlx_png.s: lib/minilibx/mlx_png.c.s
-.PHONY : lib/minilibx/mlx_png.s
+lib/minilibx/mlx_new_image.s: lib/minilibx/mlx_new_image.m.s
+.PHONY : lib/minilibx/mlx_new_image.s
 
 # target to generate assembly for a file
-lib/minilibx/mlx_png.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.s
-.PHONY : lib/minilibx/mlx_png.c.s
+lib/minilibx/mlx_new_image.m.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.s
+.PHONY : lib/minilibx/mlx_new_image.m.s
 
-lib/minilibx/mlx_rgb.o: lib/minilibx/mlx_rgb.c.o
-.PHONY : lib/minilibx/mlx_rgb.o
+lib/minilibx/mlx_new_window.o: lib/minilibx/mlx_new_window.m.o
+.PHONY : lib/minilibx/mlx_new_window.o
 
 # target to build an object file
-lib/minilibx/mlx_rgb.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o
-.PHONY : lib/minilibx/mlx_rgb.c.o
+lib/minilibx/mlx_new_window.m.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o
+.PHONY : lib/minilibx/mlx_new_window.m.o
 
-lib/minilibx/mlx_rgb.i: lib/minilibx/mlx_rgb.c.i
-.PHONY : lib/minilibx/mlx_rgb.i
+lib/minilibx/mlx_new_window.i: lib/minilibx/mlx_new_window.m.i
+.PHONY : lib/minilibx/mlx_new_window.i
 
 # target to preprocess a source file
-lib/minilibx/mlx_rgb.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.i
-.PHONY : lib/minilibx/mlx_rgb.c.i
+lib/minilibx/mlx_new_window.m.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.i
+.PHONY : lib/minilibx/mlx_new_window.m.i
 
-lib/minilibx/mlx_rgb.s: lib/minilibx/mlx_rgb.c.s
-.PHONY : lib/minilibx/mlx_rgb.s
+lib/minilibx/mlx_new_window.s: lib/minilibx/mlx_new_window.m.s
+.PHONY : lib/minilibx/mlx_new_window.s
 
 # target to generate assembly for a file
-lib/minilibx/mlx_rgb.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.s
-.PHONY : lib/minilibx/mlx_rgb.c.s
+lib/minilibx/mlx_new_window.m.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.s
+.PHONY : lib/minilibx/mlx_new_window.m.s
 
-lib/minilibx/mlx_shaders.o: lib/minilibx/mlx_shaders.c.o
-.PHONY : lib/minilibx/mlx_shaders.o
+lib/minilibx/mlx_opengl.o: lib/minilibx/mlx_opengl.m.o
+.PHONY : lib/minilibx/mlx_opengl.o
 
 # target to build an object file
-lib/minilibx/mlx_shaders.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o
-.PHONY : lib/minilibx/mlx_shaders.c.o
+lib/minilibx/mlx_opengl.m.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o
+.PHONY : lib/minilibx/mlx_opengl.m.o
 
-lib/minilibx/mlx_shaders.i: lib/minilibx/mlx_shaders.c.i
-.PHONY : lib/minilibx/mlx_shaders.i
-
-# target to preprocess a source file
-lib/minilibx/mlx_shaders.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.i
-.PHONY : lib/minilibx/mlx_shaders.c.i
-
-lib/minilibx/mlx_shaders.s: lib/minilibx/mlx_shaders.c.s
-.PHONY : lib/minilibx/mlx_shaders.s
-
-# target to generate assembly for a file
-lib/minilibx/mlx_shaders.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.s
-.PHONY : lib/minilibx/mlx_shaders.c.s
-
-lib/minilibx/mlx_xpm.o: lib/minilibx/mlx_xpm.c.o
-.PHONY : lib/minilibx/mlx_xpm.o
-
-# target to build an object file
-lib/minilibx/mlx_xpm.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o
-.PHONY : lib/minilibx/mlx_xpm.c.o
-
-lib/minilibx/mlx_xpm.i: lib/minilibx/mlx_xpm.c.i
-.PHONY : lib/minilibx/mlx_xpm.i
+lib/minilibx/mlx_opengl.i: lib/minilibx/mlx_opengl.m.i
+.PHONY : lib/minilibx/mlx_opengl.i
 
 # target to preprocess a source file
-lib/minilibx/mlx_xpm.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.i
-.PHONY : lib/minilibx/mlx_xpm.c.i
+lib/minilibx/mlx_opengl.m.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.i
+.PHONY : lib/minilibx/mlx_opengl.m.i
 
-lib/minilibx/mlx_xpm.s: lib/minilibx/mlx_xpm.c.s
-.PHONY : lib/minilibx/mlx_xpm.s
+lib/minilibx/mlx_opengl.s: lib/minilibx/mlx_opengl.m.s
+.PHONY : lib/minilibx/mlx_opengl.s
 
 # target to generate assembly for a file
-lib/minilibx/mlx_xpm.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.s
-.PHONY : lib/minilibx/mlx_xpm.c.s
+lib/minilibx/mlx_opengl.m.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlx.dir/build.make CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.s
+.PHONY : lib/minilibx/mlx_opengl.m.s
 
 src/Init/init_main_struct.o: src/Init/init_main_struct.c.o
 .PHONY : src/Init/init_main_struct.o
@@ -4872,29 +4848,29 @@ src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/main.c.s
 .PHONY : src/main.c.s
 
-src/parsing/check_format_file.o: src/parsing/check_format_file.c.o
-.PHONY : src/parsing/check_format_file.o
+src/parsing/check_texture_info.o: src/parsing/check_texture_info.c.o
+.PHONY : src/parsing/check_texture_info.o
 
 # target to build an object file
-src/parsing/check_format_file.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_format_file.c.o
-.PHONY : src/parsing/check_format_file.c.o
+src/parsing/check_texture_info.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o
+.PHONY : src/parsing/check_texture_info.c.o
 
-src/parsing/check_format_file.i: src/parsing/check_format_file.c.i
-.PHONY : src/parsing/check_format_file.i
+src/parsing/check_texture_info.i: src/parsing/check_texture_info.c.i
+.PHONY : src/parsing/check_texture_info.i
 
 # target to preprocess a source file
-src/parsing/check_format_file.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_format_file.c.i
-.PHONY : src/parsing/check_format_file.c.i
+src/parsing/check_texture_info.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.i
+.PHONY : src/parsing/check_texture_info.c.i
 
-src/parsing/check_format_file.s: src/parsing/check_format_file.c.s
-.PHONY : src/parsing/check_format_file.s
+src/parsing/check_texture_info.s: src/parsing/check_texture_info.c.s
+.PHONY : src/parsing/check_texture_info.s
 
 # target to generate assembly for a file
-src/parsing/check_format_file.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_format_file.c.s
-.PHONY : src/parsing/check_format_file.c.s
+src/parsing/check_texture_info.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.s
+.PHONY : src/parsing/check_texture_info.c.s
 
 src/parsing/error/format_errors.o: src/parsing/error/format_errors.c.o
 .PHONY : src/parsing/error/format_errors.o
@@ -4920,6 +4896,30 @@ src/parsing/error/format_errors.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.s
 .PHONY : src/parsing/error/format_errors.c.s
 
+src/parsing/error/texture_error.o: src/parsing/error/texture_error.c.o
+.PHONY : src/parsing/error/texture_error.o
+
+# target to build an object file
+src/parsing/error/texture_error.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o
+.PHONY : src/parsing/error/texture_error.c.o
+
+src/parsing/error/texture_error.i: src/parsing/error/texture_error.c.i
+.PHONY : src/parsing/error/texture_error.i
+
+# target to preprocess a source file
+src/parsing/error/texture_error.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.i
+.PHONY : src/parsing/error/texture_error.c.i
+
+src/parsing/error/texture_error.s: src/parsing/error/texture_error.c.s
+.PHONY : src/parsing/error/texture_error.s
+
+# target to generate assembly for a file
+src/parsing/error/texture_error.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.s
+.PHONY : src/parsing/error/texture_error.c.s
+
 src/parsing/get_map_info.o: src/parsing/get_map_info.c.o
 .PHONY : src/parsing/get_map_info.o
 
@@ -4944,6 +4944,30 @@ src/parsing/get_map_info.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.s
 .PHONY : src/parsing/get_map_info.c.s
 
+src/parsing/images/get_images.o: src/parsing/images/get_images.c.o
+.PHONY : src/parsing/images/get_images.o
+
+# target to build an object file
+src/parsing/images/get_images.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o
+.PHONY : src/parsing/images/get_images.c.o
+
+src/parsing/images/get_images.i: src/parsing/images/get_images.c.i
+.PHONY : src/parsing/images/get_images.i
+
+# target to preprocess a source file
+src/parsing/images/get_images.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.i
+.PHONY : src/parsing/images/get_images.c.i
+
+src/parsing/images/get_images.s: src/parsing/images/get_images.c.s
+.PHONY : src/parsing/images/get_images.s
+
+# target to generate assembly for a file
+src/parsing/images/get_images.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.s
+.PHONY : src/parsing/images/get_images.c.s
+
 src/parsing/parse_map.o: src/parsing/parse_map.c.o
 .PHONY : src/parsing/parse_map.o
 
@@ -4967,6 +4991,54 @@ src/parsing/parse_map.s: src/parsing/parse_map.c.s
 src/parsing/parse_map.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/parse_map.c.s
 .PHONY : src/parsing/parse_map.c.s
+
+src/parsing/utils/check_format_file_cub.o: src/parsing/utils/check_format_file_cub.c.o
+.PHONY : src/parsing/utils/check_format_file_cub.o
+
+# target to build an object file
+src/parsing/utils/check_format_file_cub.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o
+.PHONY : src/parsing/utils/check_format_file_cub.c.o
+
+src/parsing/utils/check_format_file_cub.i: src/parsing/utils/check_format_file_cub.c.i
+.PHONY : src/parsing/utils/check_format_file_cub.i
+
+# target to preprocess a source file
+src/parsing/utils/check_format_file_cub.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.i
+.PHONY : src/parsing/utils/check_format_file_cub.c.i
+
+src/parsing/utils/check_format_file_cub.s: src/parsing/utils/check_format_file_cub.c.s
+.PHONY : src/parsing/utils/check_format_file_cub.s
+
+# target to generate assembly for a file
+src/parsing/utils/check_format_file_cub.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.s
+.PHONY : src/parsing/utils/check_format_file_cub.c.s
+
+src/parsing/utils/check_format_file_xpm.o: src/parsing/utils/check_format_file_xpm.c.o
+.PHONY : src/parsing/utils/check_format_file_xpm.o
+
+# target to build an object file
+src/parsing/utils/check_format_file_xpm.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o
+.PHONY : src/parsing/utils/check_format_file_xpm.c.o
+
+src/parsing/utils/check_format_file_xpm.i: src/parsing/utils/check_format_file_xpm.c.i
+.PHONY : src/parsing/utils/check_format_file_xpm.i
+
+# target to preprocess a source file
+src/parsing/utils/check_format_file_xpm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.i
+.PHONY : src/parsing/utils/check_format_file_xpm.c.i
+
+src/parsing/utils/check_format_file_xpm.s: src/parsing/utils/check_format_file_xpm.c.s
+.PHONY : src/parsing/utils/check_format_file_xpm.s
+
+# target to generate assembly for a file
+src/parsing/utils/check_format_file_xpm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.s
+.PHONY : src/parsing/utils/check_format_file_xpm.c.s
 
 src/parsing/utils/colors.o: src/parsing/utils/colors.c.o
 .PHONY : src/parsing/utils/colors.o
@@ -5004,51 +5076,51 @@ help:
 	@echo "... cube3D"
 	@echo "... libft"
 	@echo "... mlx"
-	@echo "... lib/bettermlx/src/display/bettermlx_clean_display.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_clean_display.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_clean_display.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_draw_line.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_draw_line.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_draw_line.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_color.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_color.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_color.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_memory_position.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_memory_position.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_get_memory_position.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_pixel_put.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_pixel_put.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_pixel_put.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_put_image.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_put_image.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_put_image.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_render.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_render.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_render.s"
-	@echo "... lib/bettermlx/src/display/bettermlx_set_color.o"
-	@echo "... lib/bettermlx/src/display/bettermlx_set_color.i"
-	@echo "... lib/bettermlx/src/display/bettermlx_set_color.s"
-	@echo "... lib/bettermlx/src/hook/bettermlx_hook.o"
-	@echo "... lib/bettermlx/src/hook/bettermlx_hook.i"
-	@echo "... lib/bettermlx/src/hook/bettermlx_hook.s"
-	@echo "... lib/bettermlx/src/hook/bettermlx_register_loop.o"
-	@echo "... lib/bettermlx/src/hook/bettermlx_register_loop.i"
-	@echo "... lib/bettermlx/src/hook/bettermlx_register_loop.s"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_image.o"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_image.i"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_image.s"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_window.o"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_window.i"
-	@echo "... lib/bettermlx/src/window/bettermlx_destroy_window.s"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_image.o"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_image.i"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_image.s"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_window.o"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_window.i"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_window.s"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_xpm_image.o"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_xpm_image.i"
-	@echo "... lib/bettermlx/src/window/bettermlx_init_xpm_image.s"
+	@echo "... lib/bettermlx/bettermlx_clean_display.o"
+	@echo "... lib/bettermlx/bettermlx_clean_display.i"
+	@echo "... lib/bettermlx/bettermlx_clean_display.s"
+	@echo "... lib/bettermlx/bettermlx_destroy_image.o"
+	@echo "... lib/bettermlx/bettermlx_destroy_image.i"
+	@echo "... lib/bettermlx/bettermlx_destroy_image.s"
+	@echo "... lib/bettermlx/bettermlx_destroy_window.o"
+	@echo "... lib/bettermlx/bettermlx_destroy_window.i"
+	@echo "... lib/bettermlx/bettermlx_destroy_window.s"
+	@echo "... lib/bettermlx/bettermlx_draw_line.o"
+	@echo "... lib/bettermlx/bettermlx_draw_line.i"
+	@echo "... lib/bettermlx/bettermlx_draw_line.s"
+	@echo "... lib/bettermlx/bettermlx_get_color.o"
+	@echo "... lib/bettermlx/bettermlx_get_color.i"
+	@echo "... lib/bettermlx/bettermlx_get_color.s"
+	@echo "... lib/bettermlx/bettermlx_get_memory_position.o"
+	@echo "... lib/bettermlx/bettermlx_get_memory_position.i"
+	@echo "... lib/bettermlx/bettermlx_get_memory_position.s"
+	@echo "... lib/bettermlx/bettermlx_hook.o"
+	@echo "... lib/bettermlx/bettermlx_hook.i"
+	@echo "... lib/bettermlx/bettermlx_hook.s"
+	@echo "... lib/bettermlx/bettermlx_init_image.o"
+	@echo "... lib/bettermlx/bettermlx_init_image.i"
+	@echo "... lib/bettermlx/bettermlx_init_image.s"
+	@echo "... lib/bettermlx/bettermlx_init_window.o"
+	@echo "... lib/bettermlx/bettermlx_init_window.i"
+	@echo "... lib/bettermlx/bettermlx_init_window.s"
+	@echo "... lib/bettermlx/bettermlx_init_xpm_image.o"
+	@echo "... lib/bettermlx/bettermlx_init_xpm_image.i"
+	@echo "... lib/bettermlx/bettermlx_init_xpm_image.s"
+	@echo "... lib/bettermlx/bettermlx_pixel_put.o"
+	@echo "... lib/bettermlx/bettermlx_pixel_put.i"
+	@echo "... lib/bettermlx/bettermlx_pixel_put.s"
+	@echo "... lib/bettermlx/bettermlx_put_image.o"
+	@echo "... lib/bettermlx/bettermlx_put_image.i"
+	@echo "... lib/bettermlx/bettermlx_put_image.s"
+	@echo "... lib/bettermlx/bettermlx_register_loop.o"
+	@echo "... lib/bettermlx/bettermlx_register_loop.i"
+	@echo "... lib/bettermlx/bettermlx_register_loop.s"
+	@echo "... lib/bettermlx/bettermlx_render.o"
+	@echo "... lib/bettermlx/bettermlx_render.i"
+	@echo "... lib/bettermlx/bettermlx_render.s"
+	@echo "... lib/bettermlx/bettermlx_set_color.o"
+	@echo "... lib/bettermlx/bettermlx_set_color.i"
+	@echo "... lib/bettermlx/bettermlx_set_color.s"
 	@echo "... lib/libft/add_vector_coord.o"
 	@echo "... lib/libft/add_vector_coord.i"
 	@echo "... lib/libft/add_vector_coord.s"
@@ -5568,42 +5640,51 @@ help:
 	@echo "... lib/libft/sub_vector_vector.o"
 	@echo "... lib/libft/sub_vector_vector.i"
 	@echo "... lib/libft/sub_vector_vector.s"
-	@echo "... lib/minilibx/font.o"
-	@echo "... lib/minilibx/font.i"
-	@echo "... lib/minilibx/font.s"
-	@echo "... lib/minilibx/mlx_int_str_to_wordtab.o"
-	@echo "... lib/minilibx/mlx_int_str_to_wordtab.i"
-	@echo "... lib/minilibx/mlx_int_str_to_wordtab.s"
-	@echo "... lib/minilibx/mlx_png.o"
-	@echo "... lib/minilibx/mlx_png.i"
-	@echo "... lib/minilibx/mlx_png.s"
-	@echo "... lib/minilibx/mlx_rgb.o"
-	@echo "... lib/minilibx/mlx_rgb.i"
-	@echo "... lib/minilibx/mlx_rgb.s"
-	@echo "... lib/minilibx/mlx_shaders.o"
-	@echo "... lib/minilibx/mlx_shaders.i"
-	@echo "... lib/minilibx/mlx_shaders.s"
-	@echo "... lib/minilibx/mlx_xpm.o"
-	@echo "... lib/minilibx/mlx_xpm.i"
-	@echo "... lib/minilibx/mlx_xpm.s"
+	@echo "... lib/minilibx/mlx_init_loop.o"
+	@echo "... lib/minilibx/mlx_init_loop.i"
+	@echo "... lib/minilibx/mlx_init_loop.s"
+	@echo "... lib/minilibx/mlx_mouse.o"
+	@echo "... lib/minilibx/mlx_mouse.i"
+	@echo "... lib/minilibx/mlx_mouse.s"
+	@echo "... lib/minilibx/mlx_new_image.o"
+	@echo "... lib/minilibx/mlx_new_image.i"
+	@echo "... lib/minilibx/mlx_new_image.s"
+	@echo "... lib/minilibx/mlx_new_window.o"
+	@echo "... lib/minilibx/mlx_new_window.i"
+	@echo "... lib/minilibx/mlx_new_window.s"
+	@echo "... lib/minilibx/mlx_opengl.o"
+	@echo "... lib/minilibx/mlx_opengl.i"
+	@echo "... lib/minilibx/mlx_opengl.s"
 	@echo "... src/Init/init_main_struct.o"
 	@echo "... src/Init/init_main_struct.i"
 	@echo "... src/Init/init_main_struct.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
-	@echo "... src/parsing/check_format_file.o"
-	@echo "... src/parsing/check_format_file.i"
-	@echo "... src/parsing/check_format_file.s"
+	@echo "... src/parsing/check_texture_info.o"
+	@echo "... src/parsing/check_texture_info.i"
+	@echo "... src/parsing/check_texture_info.s"
 	@echo "... src/parsing/error/format_errors.o"
 	@echo "... src/parsing/error/format_errors.i"
 	@echo "... src/parsing/error/format_errors.s"
+	@echo "... src/parsing/error/texture_error.o"
+	@echo "... src/parsing/error/texture_error.i"
+	@echo "... src/parsing/error/texture_error.s"
 	@echo "... src/parsing/get_map_info.o"
 	@echo "... src/parsing/get_map_info.i"
 	@echo "... src/parsing/get_map_info.s"
+	@echo "... src/parsing/images/get_images.o"
+	@echo "... src/parsing/images/get_images.i"
+	@echo "... src/parsing/images/get_images.s"
 	@echo "... src/parsing/parse_map.o"
 	@echo "... src/parsing/parse_map.i"
 	@echo "... src/parsing/parse_map.s"
+	@echo "... src/parsing/utils/check_format_file_cub.o"
+	@echo "... src/parsing/utils/check_format_file_cub.i"
+	@echo "... src/parsing/utils/check_format_file_cub.s"
+	@echo "... src/parsing/utils/check_format_file_xpm.o"
+	@echo "... src/parsing/utils/check_format_file_xpm.i"
+	@echo "... src/parsing/utils/check_format_file_xpm.s"
 	@echo "... src/parsing/utils/colors.o"
 	@echo "... src/parsing/utils/colors.i"
 	@echo "... src/parsing/utils/colors.s"

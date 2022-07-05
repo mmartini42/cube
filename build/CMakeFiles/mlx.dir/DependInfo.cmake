@@ -8,12 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/font.c" "CMakeFiles/mlx.dir/lib/minilibx/font.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/font.c.o.d"
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_int_str_to_wordtab.c" "CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_int_str_to_wordtab.c.o.d"
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_png.c" "CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_png.c.o.d"
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_rgb.c" "CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_rgb.c.o.d"
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_shaders.c" "CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_shaders.c.o.d"
-  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_xpm.c" "CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_xpm.c.o.d"
+  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_init_loop.m" "CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o.d"
+  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_mouse.m" "CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o.d"
+  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_image.m" "CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o.d"
+  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_window.m" "CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o.d"
+  "/Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_opengl.m" "CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o" "gcc" "CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o.d"
   )
 
 # Targets to which this target links.

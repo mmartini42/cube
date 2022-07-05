@@ -69,252 +69,252 @@ include CMakeFiles/better.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/better.dir/flags.make
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o: ../lib/bettermlx/src/display/bettermlx_clean_display.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_clean_display.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o: ../lib/bettermlx/bettermlx_clean_display.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_clean_display.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_clean_display.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_clean_display.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_clean_display.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_clean_display.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o: ../lib/bettermlx/src/display/bettermlx_draw_line.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_draw_line.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o: ../lib/bettermlx/bettermlx_destroy_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_image.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_draw_line.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_image.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_draw_line.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_image.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o: ../lib/bettermlx/src/display/bettermlx_get_color.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_color.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o: ../lib/bettermlx/bettermlx_destroy_window.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_window.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_color.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_window.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_color.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_window.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o: ../lib/bettermlx/src/display/bettermlx_get_memory_position.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_memory_position.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o: ../lib/bettermlx/bettermlx_draw_line.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_draw_line.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_memory_position.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_draw_line.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_get_memory_position.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_draw_line.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o: ../lib/bettermlx/src/display/bettermlx_pixel_put.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_pixel_put.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o: ../lib/bettermlx/bettermlx_get_color.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_color.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_pixel_put.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_color.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_pixel_put.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_color.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o: ../lib/bettermlx/src/display/bettermlx_put_image.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_put_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o: ../lib/bettermlx/bettermlx_get_memory_position.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_memory_position.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_put_image.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_memory_position.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_put_image.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_memory_position.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o: ../lib/bettermlx/src/display/bettermlx_render.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_render.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o: ../lib/bettermlx/bettermlx_hook.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_hook.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_render.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_hook.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_render.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_hook.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o: ../lib/bettermlx/src/display/bettermlx_set_color.c
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_set_color.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o: ../lib/bettermlx/bettermlx_init_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_image.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_set_color.c > CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_image.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/display/bettermlx_set_color.c -o CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_image.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o: ../lib/bettermlx/src/hook/bettermlx_hook.c
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_hook.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o: ../lib/bettermlx/bettermlx_init_window.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_window.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_hook.c > CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_window.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_hook.c -o CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_window.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o: ../lib/bettermlx/src/hook/bettermlx_register_loop.c
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_register_loop.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o: ../lib/bettermlx/bettermlx_init_xpm_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_xpm_image.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_register_loop.c > CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_xpm_image.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/hook/bettermlx_register_loop.c -o CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_xpm_image.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o: ../lib/bettermlx/src/window/bettermlx_destroy_image.c
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o: ../lib/bettermlx/bettermlx_pixel_put.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_pixel_put.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_image.c > CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_pixel_put.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_image.c -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_pixel_put.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o: ../lib/bettermlx/src/window/bettermlx_destroy_window.c
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_window.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o: ../lib/bettermlx/bettermlx_put_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_put_image.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_window.c > CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_put_image.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_destroy_window.c -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_put_image.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o: ../lib/bettermlx/src/window/bettermlx_init_image.c
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o: ../lib/bettermlx/bettermlx_register_loop.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_register_loop.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_image.c > CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_register_loop.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_image.c -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_register_loop.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o: ../lib/bettermlx/src/window/bettermlx_init_window.c
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_window.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o: ../lib/bettermlx/bettermlx_render.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_render.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_window.c > CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_render.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_window.c -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_render.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.s
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o: CMakeFiles/better.dir/flags.make
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o: ../lib/bettermlx/src/window/bettermlx_init_xpm_image.c
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o: CMakeFiles/better.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o -MF CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_xpm_image.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o: CMakeFiles/better.dir/flags.make
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o: ../lib/bettermlx/bettermlx_set_color.c
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o: CMakeFiles/better.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o -MF CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o.d -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o -c /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_set_color.c
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_xpm_image.c > CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.i
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_set_color.c > CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.i
 
-CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/src/window/bettermlx_init_xpm_image.c -o CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.s
+CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_set_color.c -o CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.s
 
 # Object files for target better
 better_OBJECTS = \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o" \
-"CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o"
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o" \
+"CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o"
 
 # External object files for target better
 better_EXTERNAL_OBJECTS =
 
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_clean_display.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_draw_line.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_color.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_get_memory_position.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_pixel_put.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_put_image.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_render.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/display/bettermlx_set_color.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_hook.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/hook/bettermlx_register_loop.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_image.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_destroy_window.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_image.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_window.c.o
-libbetter.a: CMakeFiles/better.dir/lib/bettermlx/src/window/bettermlx_init_xpm_image.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o
+libbetter.a: CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o
 libbetter.a: CMakeFiles/better.dir/build.make
 libbetter.a: CMakeFiles/better.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mathismartini/CLionProjects/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C static library libbetter.a"
