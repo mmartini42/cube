@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/03 01:08:06 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/05 01:11:41 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 23:17:16 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,11 +46,15 @@ static char	*get_color_value(int *index, const char *info)
 	return (value);
 }
 
-static unsigned char	to_convert(char **value)
+static unsigned char	to_convert(char **value, t_game *game)
 {
 	int	convert;
 
+	if (!is_numberstr(*value))
+		error_colors(game);
 	convert = ft_atoi(*value);
+	if (!(convert >= 0 && convert <= 255))
+		error_colors(game);
 	free(*value);
 	*value = NULL;
 	return ((unsigned char)convert);
@@ -74,8 +78,8 @@ t_color	add_color(const char *info, t_game *game)
 		i++;
 	}
 	value[j] = NULL;
-	color = create_color(TRANSPARENCY, to_convert(&value[0]), \
-		to_convert(&value[1]), to_convert(&value[2]));
+	color = create_color(TRANSPARENCY, to_convert(&value[0], game), \
+		to_convert(&value[1], game), to_convert(&value[2], game));
 	free(value);
 	value = NULL;
 	return (color);
