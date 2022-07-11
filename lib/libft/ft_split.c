@@ -76,7 +76,5 @@ char	**ft_split(char *str, char *charset)
 		return (NULL);
 	fill_words(str, charset, result);
 	result[word_counter] = NULL;
-	for (int i = 0; result[i]; i++)
-		dprintf(1, "%s\n", result[i]);
 	return (result);
 }
