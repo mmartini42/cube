@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 18:51:36 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/05 20:45:36 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/06 01:49:22 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,7 @@ static bool	check_debug(t_game *game)
 	while (game->map->file[i])
 	{
 		if (ft_strncmp(game->map->file[i], "D", 1) == 0)
-			game->debug = true;
+			return (true);
 		i++;
 	}
 	return (false);
@@ -53,10 +53,9 @@ static void	get_colors(t_game *game, char *to_find, t_color *color)
 	size_t	i;
 
 	i = 0;
-	while (game->map->file[i])
+	while (game->map->file[i] && game->debug == false)
 	{
-		if (game->debug == false
-			&& ft_strncmp(game->map->file[i], to_find, ft_strlen(to_find)) == 0)
+		if (ft_strncmp(game->map->file[i], to_find, ft_strlen(to_find)) == 0)
 		{
 			*color = add_color(game->map->file[i], game);
 			i++;
@@ -86,13 +85,13 @@ void	get_map_info(t_game *game)
 	get_info(game, "SO", &game->texture->s_path);
 	get_info(game, "WE", &game->texture->w_path);
 	get_info(game, "EA", &game->texture->e_path);
-	check_debug(game);
+	game->debug = check_debug(game);
 	if (game->debug == false)
 	{
 		get_colors(game, "F", &game->texture->floor);
 		get_colors(game, "C", &game->texture->ceiling);
 	}
-	else
+	else if (game->debug == true)
 	{
 		get_info(game, "F", &game->texture->d_floor);
 		get_info(game, "C", &game->texture->d_ceilling);

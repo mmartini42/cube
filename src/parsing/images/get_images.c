@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/05 18:05:39 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/05 20:42:17 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/05 20:42:58 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,9 +49,9 @@ void	get_image_xpm(t_game *game)
 	if (game->debug == true)
 	{
 		game->d_floor = bettermlx_init_xpm_image(game->window,
-					game->texture->d_floor);
+				game->texture->d_floor);
 		game->d_ceiling = bettermlx_init_xpm_image(game->window,
-					game->texture->d_ceilling);
+				game->texture->d_ceilling);
 		free_debug_path(game);
 	}
 	free_images_path(game);

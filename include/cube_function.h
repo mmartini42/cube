@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:44:43 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/05 00:51:54 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/06 22:55:58 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,6 +27,7 @@ char	*check_path_texture(t_game *game, char *path);
 
 /* Parsing/utils */
 t_color	add_color(const char *info, t_game *game);
+void	split(char *str, char *charset, char **result);
 
 /* Images */
 void	get_image_xpm(t_game *game);

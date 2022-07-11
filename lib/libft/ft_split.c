@@ -6,7 +6,7 @@
 /*   By: lduplain <lduplain@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/19 14:52:16 by lduplain          #+#    #+#             */
-/*   Updated: 2021/04/01 11:54:26 by lduplain         ###   ########lyon.fr   */
+/*   Updated: 2022/07/06 22:55:48 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -76,5 +76,7 @@ char	**ft_split(char *str, char *charset)
 		return (NULL);
 	fill_words(str, charset, result);
 	result[word_counter] = NULL;
+	for (int i = 0; result[i]; i++)
+		dprintf(1, "%s\n", result[i]);
 	return (result);
 }

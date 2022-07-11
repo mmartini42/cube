@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/05 20:42:58 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/06 23:49:33 by mathismartini    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,6 +63,9 @@ void	*destroy_string_array(char **string_array)
 	return (NULL);
 }
 
+//TODO : recupere la map et verifier ca validite
+// Corriger l'erreyur du split \n et du F encore presente !
+
 void	parse_map(t_game *game, char **av)
 {
 	char	*file;
@@ -70,9 +73,11 @@ void	parse_map(t_game *game, char **av)
 	check_format_file_cub(game, av[1], ".cub");
 	file = read_file(av[1]);
 	game->map->file = ft_split(file, "\n");
-	get_map_info(game);
+	printf("test\n");
+	for (int i = 0; game->map->file[i]; i++)
+		dprintf(1, "%s\n", game->map->file[i]);
+//	get_map_info(game);
 	printf("test 2 \n");
-	//TODO : recupere la map et verifier ca validite
 	destroy_string_array(game->map->file);
 	free(file);
 	file = NULL;

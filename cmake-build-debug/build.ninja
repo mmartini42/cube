@@ -55,6 +55,8 @@ build CMakeFiles/libft.dir/lib/libft/add_vector_coord.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/add_vector_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/add_vector_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/add_vector_vector.c.o.d
@@ -62,6 +64,8 @@ build CMakeFiles/libft.dir/lib/libft/add_vector_vector.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/color_to_int.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/color_to_int.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/color_to_int.c.o.d
@@ -69,6 +73,8 @@ build CMakeFiles/libft.dir/lib/libft/color_to_int.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/copy_str_array.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/copy_str_array.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/copy_str_array.c.o.d
@@ -76,6 +82,8 @@ build CMakeFiles/libft.dir/lib/libft/copy_str_array.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/create_color.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/create_color.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/create_color.c.o.d
@@ -83,6 +91,8 @@ build CMakeFiles/libft.dir/lib/libft/create_color.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/create_icolor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/create_icolor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/create_icolor.c.o.d
@@ -90,6 +100,8 @@ build CMakeFiles/libft.dir/lib/libft/create_icolor.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/create_interval.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/create_interval.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/create_interval.c.o.d
@@ -97,6 +109,8 @@ build CMakeFiles/libft.dir/lib/libft/create_interval.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/create_point3.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/create_point3.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/create_point3.c.o.d
@@ -104,6 +118,8 @@ build CMakeFiles/libft.dir/lib/libft/create_point3.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/create_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/create_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/create_vector.c.o.d
@@ -111,6 +127,8 @@ build CMakeFiles/libft.dir/lib/libft/create_vector.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance2.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance2.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance2.c.o.d
@@ -118,6 +136,8 @@ build CMakeFiles/libft.dir/lib/libft/distance2.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance3.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance3.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance3.c.o.d
@@ -125,6 +145,8 @@ build CMakeFiles/libft.dir/lib/libft/distance3.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance_point3.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance_point3.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance_point3.c.o.d
@@ -132,6 +154,8 @@ build CMakeFiles/libft.dir/lib/libft/distance_point3.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance_square2.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance_square2.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance_square2.c.o.d
@@ -139,6 +163,8 @@ build CMakeFiles/libft.dir/lib/libft/distance_square2.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance_square3.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance_square3.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance_square3.c.o.d
@@ -146,6 +172,8 @@ build CMakeFiles/libft.dir/lib/libft/distance_square3.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/distance_square_point3.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/distance_square_point3.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/distance_square_point3.c.o.d
@@ -153,6 +181,8 @@ build CMakeFiles/libft.dir/lib/libft/distance_square_point3.c.o: C_COMPILER__lib
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/div_vector_coord.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/div_vector_coord.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/div_vector_coord.c.o.d
@@ -160,6 +190,8 @@ build CMakeFiles/libft.dir/lib/libft/div_vector_coord.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/div_vector_value.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/div_vector_value.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/div_vector_value.c.o.d
@@ -167,6 +199,8 @@ build CMakeFiles/libft.dir/lib/libft/div_vector_value.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/div_vector_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/div_vector_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/div_vector_vector.c.o.d
@@ -174,6 +208,8 @@ build CMakeFiles/libft.dir/lib/libft/div_vector_vector.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_abs.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_abs.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_abs.c.o.d
@@ -181,6 +217,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_abs.c.o: C_COMPILER__libft_Debug /Users/
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_add_str_to_str_array.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_add_str_to_str_array.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_add_str_to_str_array.c.o.d
@@ -188,6 +226,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_add_str_to_str_array.c.o: C_COMPILER__li
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_append_char_to_str.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_append_char_to_str.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_append_char_to_str.c.o.d
@@ -195,6 +235,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_append_char_to_str.c.o: C_COMPILER__libf
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_append_strs.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_append_strs.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_append_strs.c.o.d
@@ -202,6 +244,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_append_strs.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_atoi.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_atoi.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_atoi.c.o.d
@@ -209,6 +253,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_atoi.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_atoll.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_atoll.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_atoll.c.o.d
@@ -216,6 +262,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_atoll.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_bzero.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_bzero.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_bzero.c.o.d
@@ -223,6 +271,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_bzero.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_calloc.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_calloc.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_calloc.c.o.d
@@ -230,6 +280,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_calloc.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_close_file.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_close_file.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_close_file.c.o.d
@@ -237,6 +289,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_close_file.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_contains_char.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_contains_char.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_contains_char.c.o.d
@@ -244,6 +298,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_contains_char.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_count_file_lines.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_count_file_lines.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_count_file_lines.c.o.d
@@ -251,6 +307,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_count_file_lines.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_create_file_content.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_create_file_content.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_create_file_content.c.o.d
@@ -258,6 +316,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_create_file_content.c.o: C_COMPILER__lib
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_ctostr.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_ctostr.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_ctostr.c.o.d
@@ -265,6 +325,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_ctostr.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_destroy_file_content.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_destroy_file_content.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_destroy_file_content.c.o.d
@@ -272,6 +334,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_destroy_file_content.c.o: C_COMPILER__li
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_destroy_splitted.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_destroy_splitted.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_destroy_splitted.c.o.d
@@ -279,6 +343,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_destroy_splitted.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_destroy_string_array.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_destroy_string_array.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_destroy_string_array.c.o.d
@@ -286,6 +352,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_destroy_string_array.c.o: C_COMPILER__li
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_fabs.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_fabs.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_fabs.c.o.d
@@ -293,6 +361,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_fabs.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_fill_file_content.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_fill_file_content.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_fill_file_content.c.o.d
@@ -300,6 +370,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_fill_file_content.c.o: C_COMPILER__libft
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_find_char.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_find_char.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_find_char.c.o.d
@@ -307,6 +379,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_find_char.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_fmax.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_fmax.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_fmax.c.o.d
@@ -314,6 +388,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_fmax.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_fmin.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_fmin.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_fmin.c.o.d
@@ -321,6 +397,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_fmin.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_get_file_content.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_get_file_content.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_get_file_content.c.o.d
@@ -328,6 +406,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_get_file_content.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_get_splitted_size.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_get_splitted_size.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_get_splitted_size.c.o.d
@@ -335,6 +415,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_get_splitted_size.c.o: C_COMPILER__libft
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_get_string_array_length.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_get_string_array_length.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_get_string_array_length.c.o.d
@@ -342,6 +424,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_get_string_array_length.c.o: C_COMPILER_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_iabsui.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_iabsui.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_iabsui.c.o.d
@@ -349,6 +433,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_iabsui.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_ll_length.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_ll_length.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_ll_length.c.o.d
@@ -356,6 +442,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_ll_length.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_lltoa_ibase.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_lltoa_ibase.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_lltoa_ibase.c.o.d
@@ -363,6 +451,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_lltoa_ibase.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_lowercase_char.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_lowercase_char.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_lowercase_char.c.o.d
@@ -370,6 +460,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_lowercase_char.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_map.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_map.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_map.c.o.d
@@ -377,6 +469,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_map.c.o: C_COMPILER__libft_Debug /Users/
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_max.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_max.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_max.c.o.d
@@ -384,6 +478,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_max.c.o: C_COMPILER__libft_Debug /Users/
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_memset.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_memset.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_memset.c.o.d
@@ -391,6 +487,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_memset.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_min.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_min.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_min.c.o.d
@@ -398,6 +496,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_min.c.o: C_COMPILER__libft_Debug /Users/
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_natoi.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_natoi.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_natoi.c.o.d
@@ -405,6 +505,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_natoi.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_open_file.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_open_file.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_open_file.c.o.d
@@ -412,6 +514,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_open_file.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_printf.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_printf.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_printf.c.o.d
@@ -419,6 +523,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_printf.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar.c.o.d
@@ -426,6 +532,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar_err.c.o.d
@@ -433,6 +541,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar_err.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar_errnl.c.o.d
@@ -440,6 +550,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar_errnl.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar_fd.c.o.d
@@ -447,6 +559,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar_fd.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar_fdnl.c.o.d
@@ -454,6 +568,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar_fdnl.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putchar_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putchar_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putchar_nl.c.o.d
@@ -461,6 +577,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putchar_nl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti.c.o.d
@@ -468,6 +586,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti_err.c.o.d
@@ -475,6 +595,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti_err.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti_errnl.c.o.d
@@ -482,6 +604,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti_errnl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti_fd.c.o.d
@@ -489,6 +613,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti_fd.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti_fdnl.c.o.d
@@ -496,6 +622,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti_fdnl.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_puti_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_puti_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_puti_nl.c.o.d
@@ -503,6 +631,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_puti_nl.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl.c.o.d
@@ -510,6 +640,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl.c.o: C_COMPILER__libft_Debug /Users
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl_err.c.o.d
@@ -517,6 +649,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl_err.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl_errnl.c.o.d
@@ -524,6 +658,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl_errnl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl_fd.c.o.d
@@ -531,6 +667,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl_fd.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl_fdnl.c.o.d
@@ -538,6 +676,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl_fdnl.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putl_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putl_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putl_nl.c.o.d
@@ -545,6 +685,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putl_nl.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll.c.o.d
@@ -552,6 +694,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll_err.c.o.d
@@ -559,6 +703,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll_err.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll_errnl.c.o.d
@@ -566,6 +712,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll_errnl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll_fd.c.o.d
@@ -573,6 +721,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll_fd.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll_fdnl.c.o.d
@@ -580,6 +730,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll_fdnl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putll_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putll_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putll_nl.c.o.d
@@ -587,6 +739,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putll_nl.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar.c.o.d
@@ -594,6 +748,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar_err.c.o.d
@@ -601,6 +757,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar_err.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar_errnl.c.o.d
@@ -608,6 +766,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar_errnl.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar_fd.c.o.d
@@ -615,6 +775,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar_fd.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar_fdnl.c.o.d
@@ -622,6 +784,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar_fdnl.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putnchar_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putnchar_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putnchar_nl.c.o.d
@@ -629,6 +793,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putnchar_nl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr.c.o.d
@@ -636,6 +802,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr_err.c.o.d
@@ -643,6 +811,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr_err.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr_errnl.c.o.d
@@ -650,6 +820,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr_errnl.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr_fd.c.o.d
@@ -657,6 +829,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr_fd.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr_fdnl.c.o.d
@@ -664,6 +838,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr_fdnl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putstr_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putstr_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putstr_nl.c.o.d
@@ -671,6 +847,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putstr_nl.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui.c.o.d
@@ -678,6 +856,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui_err.c.o.d
@@ -685,6 +865,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui_err.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui_errnl.c.o.d
@@ -692,6 +874,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui_errnl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui_fd.c.o.d
@@ -699,6 +883,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui_fd.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui_fdnl.c.o.d
@@ -706,6 +892,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui_fdnl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putui_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putui_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putui_nl.c.o.d
@@ -713,6 +901,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putui_nl.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul.c.o.d
@@ -720,6 +910,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul_err.c.o.d
@@ -727,6 +919,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul_err.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul_errnl.c.o.d
@@ -734,6 +928,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul_errnl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul_fd.c.o.d
@@ -741,6 +937,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul_fd.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul_fdnl.c.o.d
@@ -748,6 +946,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul_fdnl.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putul_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putul_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putul_nl.c.o.d
@@ -755,6 +955,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putul_nl.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull.c.o.d
@@ -762,6 +964,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull_err.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull_err.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull_err.c.o.d
@@ -769,6 +973,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull_err.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull_errnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull_errnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull_errnl.c.o.d
@@ -776,6 +982,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull_errnl.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull_fd.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull_fd.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull_fd.c.o.d
@@ -783,6 +991,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull_fd.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull_fdnl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull_fdnl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull_fdnl.c.o.d
@@ -790,6 +1000,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull_fdnl.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_putull_nl.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_putull_nl.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_putull_nl.c.o.d
@@ -797,6 +1009,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_putull_nl.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_read_next_line.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_read_next_line.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_read_next_line.c.o.d
@@ -804,6 +1018,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_read_next_line.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_split.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_split.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_split.c.o.d
@@ -811,6 +1027,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_split.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_str_endwith.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_str_endwith.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_str_endwith.c.o.d
@@ -818,6 +1036,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_str_endwith.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strcmp.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strcmp.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strcmp.c.o.d
@@ -825,6 +1045,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strcmp.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strcpy.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strcpy.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strcpy.c.o.d
@@ -832,6 +1054,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strcpy.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strdup.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strdup.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strdup.c.o.d
@@ -839,6 +1063,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strdup.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strichr.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strichr.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strichr.c.o.d
@@ -846,6 +1072,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strichr.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strlen.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strlen.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strlen.c.o.d
@@ -853,6 +1081,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strlen.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strmult_back.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strmult_back.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strmult_back.c.o.d
@@ -860,6 +1090,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strmult_back.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strmult_front.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strmult_front.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strmult_front.c.o.d
@@ -867,6 +1099,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strmult_front.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strncmp.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strncmp.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strncmp.c.o.d
@@ -874,6 +1108,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strncmp.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_strndup.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_strndup.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_strndup.c.o.d
@@ -881,6 +1117,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_strndup.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_tolower.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_tolower.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_tolower.c.o.d
@@ -888,6 +1126,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_tolower.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_toupper.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_toupper.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_toupper.c.o.d
@@ -895,6 +1135,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_toupper.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_ull_ibase_length.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_ull_ibase_length.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_ull_ibase_length.c.o.d
@@ -902,6 +1144,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_ull_ibase_length.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_ull_length.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_ull_length.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_ull_length.c.o.d
@@ -909,6 +1153,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_ull_length.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_ulltoa_ibase.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_ulltoa_ibase.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_ulltoa_ibase.c.o.d
@@ -916,6 +1162,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_ulltoa_ibase.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/ft_uppercase_char.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/ft_uppercase_char.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/ft_uppercase_char.c.o.d
@@ -923,6 +1171,8 @@ build CMakeFiles/libft.dir/lib/libft/ft_uppercase_char.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_alpha.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_alpha.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_alpha.c.o.d
@@ -930,6 +1180,8 @@ build CMakeFiles/libft.dir/lib/libft/is_alpha.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_alphanumeric.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_alphanumeric.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_alphanumeric.c.o.d
@@ -937,6 +1189,8 @@ build CMakeFiles/libft.dir/lib/libft/is_alphanumeric.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_ascii.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_ascii.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_ascii.c.o.d
@@ -944,6 +1198,8 @@ build CMakeFiles/libft.dir/lib/libft/is_ascii.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_lowercase.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_lowercase.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_lowercase.c.o.d
@@ -951,6 +1207,8 @@ build CMakeFiles/libft.dir/lib/libft/is_lowercase.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_numberstr.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_numberstr.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_numberstr.c.o.d
@@ -958,6 +1216,8 @@ build CMakeFiles/libft.dir/lib/libft/is_numberstr.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_numeric.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_numeric.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_numeric.c.o.d
@@ -965,6 +1225,8 @@ build CMakeFiles/libft.dir/lib/libft/is_numeric.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_printable.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_printable.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_printable.c.o.d
@@ -972,6 +1234,8 @@ build CMakeFiles/libft.dir/lib/libft/is_printable.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_space.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_space.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_space.c.o.d
@@ -979,6 +1243,8 @@ build CMakeFiles/libft.dir/lib/libft/is_space.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_uppercase.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_uppercase.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_uppercase.c.o.d
@@ -986,6 +1252,8 @@ build CMakeFiles/libft.dir/lib/libft/is_uppercase.c.o: C_COMPILER__libft_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/is_whitespace.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/is_whitespace.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/is_whitespace.c.o.d
@@ -993,6 +1261,8 @@ build CMakeFiles/libft.dir/lib/libft/is_whitespace.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_add_back_elem.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_add_back_elem.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_add_back_elem.c.o.d
@@ -1000,6 +1270,8 @@ build CMakeFiles/libft.dir/lib/libft/list_add_back_elem.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_add_back_new.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_add_back_new.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_add_back_new.c.o.d
@@ -1007,6 +1279,8 @@ build CMakeFiles/libft.dir/lib/libft/list_add_back_new.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_add_front_elem.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_add_front_elem.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_add_front_elem.c.o.d
@@ -1014,6 +1288,8 @@ build CMakeFiles/libft.dir/lib/libft/list_add_front_elem.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_add_front_new.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_add_front_new.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_add_front_new.c.o.d
@@ -1021,6 +1297,8 @@ build CMakeFiles/libft.dir/lib/libft/list_add_front_new.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_clear.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_clear.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_clear.c.o.d
@@ -1028,6 +1306,8 @@ build CMakeFiles/libft.dir/lib/libft/list_clear.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_create_elem.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_create_elem.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_create_elem.c.o.d
@@ -1035,6 +1315,8 @@ build CMakeFiles/libft.dir/lib/libft/list_create_elem.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_get.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_get.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_get.c.o.d
@@ -1042,6 +1324,8 @@ build CMakeFiles/libft.dir/lib/libft/list_get.c.o: C_COMPILER__libft_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_last.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_last.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_last.c.o.d
@@ -1049,6 +1333,8 @@ build CMakeFiles/libft.dir/lib/libft/list_last.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_remove.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_remove.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_remove.c.o.d
@@ -1056,6 +1342,8 @@ build CMakeFiles/libft.dir/lib/libft/list_remove.c.o: C_COMPILER__libft_Debug /U
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/list_size.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/list_size.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/list_size.c.o.d
@@ -1063,6 +1351,8 @@ build CMakeFiles/libft.dir/lib/libft/list_size.c.o: C_COMPILER__libft_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/mult_vector_coord.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/mult_vector_coord.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/mult_vector_coord.c.o.d
@@ -1070,6 +1360,8 @@ build CMakeFiles/libft.dir/lib/libft/mult_vector_coord.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/mult_vector_value.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/mult_vector_value.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/mult_vector_value.c.o.d
@@ -1077,6 +1369,8 @@ build CMakeFiles/libft.dir/lib/libft/mult_vector_value.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/mult_vector_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/mult_vector_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/mult_vector_vector.c.o.d
@@ -1084,6 +1378,8 @@ build CMakeFiles/libft.dir/lib/libft/mult_vector_vector.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/normalize_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/normalize_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/normalize_vector.c.o.d
@@ -1091,6 +1387,8 @@ build CMakeFiles/libft.dir/lib/libft/normalize_vector.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_c_processor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_c_processor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_c_processor.c.o.d
@@ -1098,6 +1396,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_c_processor.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_create_printable.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_create_printable.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_create_printable.c.o.d
@@ -1105,6 +1405,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_create_printable.c.o: C_COMPILER__li
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_display.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_display.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_display.c.o.d
@@ -1112,6 +1414,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_display.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_diuxx_processor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_diuxx_processor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_diuxx_processor.c.o.d
@@ -1119,6 +1423,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_diuxx_processor.c.o: C_COMPILER__lib
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_dot_parser.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_dot_parser.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_dot_parser.c.o.d
@@ -1126,6 +1432,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_dot_parser.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_is_valid_flag.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_is_valid_flag.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_is_valid_flag.c.o.d
@@ -1133,6 +1441,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_is_valid_flag.c.o: C_COMPILER__libft
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_is_valid_type.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_is_valid_type.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_is_valid_type.c.o.d
@@ -1140,6 +1450,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_is_valid_type.c.o: C_COMPILER__libft
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_minus_parser.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_minus_parser.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_minus_parser.c.o.d
@@ -1147,6 +1459,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_minus_parser.c.o: C_COMPILER__libft_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_p_processor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_p_processor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_p_processor.c.o.d
@@ -1154,6 +1468,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_p_processor.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_parse_printable.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_parse_printable.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_parse_printable.c.o.d
@@ -1161,6 +1477,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_parse_printable.c.o: C_COMPILER__lib
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_pcrt_processor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_pcrt_processor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_pcrt_processor.c.o.d
@@ -1168,6 +1486,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_pcrt_processor.c.o: C_COMPILER__libf
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_preprocess.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_preprocess.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_preprocess.c.o.d
@@ -1175,6 +1495,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_preprocess.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_process.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_process.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_process.c.o.d
@@ -1182,6 +1504,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_process.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_s_processor.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_s_processor.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_s_processor.c.o.d
@@ -1189,6 +1513,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_s_processor.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_star_parser.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_star_parser.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_star_parser.c.o.d
@@ -1196,6 +1522,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_star_parser.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/printf_zero_parser.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/printf_zero_parser.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/printf_zero_parser.c.o.d
@@ -1203,6 +1531,8 @@ build CMakeFiles/libft.dir/lib/libft/printf_zero_parser.c.o: C_COMPILER__libft_D
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/quick_sort.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/quick_sort.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/quick_sort.c.o.d
@@ -1210,6 +1540,8 @@ build CMakeFiles/libft.dir/lib/libft/quick_sort.c.o: C_COMPILER__libft_Debug /Us
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/rotate_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/rotate_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/rotate_vector.c.o.d
@@ -1217,6 +1549,8 @@ build CMakeFiles/libft.dir/lib/libft/rotate_vector.c.o: C_COMPILER__libft_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/rotate_vector_x.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/rotate_vector_x.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/rotate_vector_x.c.o.d
@@ -1224,6 +1558,8 @@ build CMakeFiles/libft.dir/lib/libft/rotate_vector_x.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/rotate_vector_y.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/rotate_vector_y.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/rotate_vector_y.c.o.d
@@ -1231,6 +1567,8 @@ build CMakeFiles/libft.dir/lib/libft/rotate_vector_y.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/rotate_vector_z.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/rotate_vector_z.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/rotate_vector_z.c.o.d
@@ -1238,6 +1576,8 @@ build CMakeFiles/libft.dir/lib/libft/rotate_vector_z.c.o: C_COMPILER__libft_Debu
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/sort_str_array.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/sort_str_array.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/sort_str_array.c.o.d
@@ -1245,6 +1585,8 @@ build CMakeFiles/libft.dir/lib/libft/sort_str_array.c.o: C_COMPILER__libft_Debug
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/sub_vector_coord.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/sub_vector_coord.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/sub_vector_coord.c.o.d
@@ -1252,6 +1594,8 @@ build CMakeFiles/libft.dir/lib/libft/sub_vector_coord.c.o: C_COMPILER__libft_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 build CMakeFiles/libft.dir/lib/libft/sub_vector_vector.c.o: C_COMPILER__libft_Debug /Users/mathismartini/CLionProjects/cube/lib/libft/sub_vector_vector.c || cmake_object_order_depends_target_libft
   DEP_FILE = CMakeFiles/libft.dir/lib/libft/sub_vector_vector.c.o.d
@@ -1259,6 +1603,8 @@ build CMakeFiles/libft.dir/lib/libft/sub_vector_vector.c.o: C_COMPILER__libft_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/libft.dir
   OBJECT_FILE_DIR = CMakeFiles/libft.dir/lib/libft
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
+  TARGET_PDB = liblibft.pdb
 
 
 # =============================================================================
@@ -1274,8 +1620,9 @@ build liblibft.a: C_STATIC_LIBRARY_LINKER__libft_Debug CMakeFiles/libft.dir/lib/
   OBJECT_DIR = CMakeFiles/libft.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/libft.dir/libft.pdb
   TARGET_FILE = liblibft.a
-  TARGET_PDB = libft.a.dbg
+  TARGET_PDB = liblibft.pdb
 
 # =============================================================================
 # Object build statements for STATIC_LIBRARY target mlx
@@ -1292,6 +1639,8 @@ build CMakeFiles/mlx.dir/lib/minilibx/mlx_init_loop.m.o: C_COMPILER__mlx_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/mlx.dir
   OBJECT_FILE_DIR = CMakeFiles/mlx.dir/lib/minilibx
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
+  TARGET_PDB = libmlx.pdb
 
 build CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o: C_COMPILER__mlx_Debug /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_mouse.m || cmake_object_order_depends_target_mlx
   DEP_FILE = CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o.d
@@ -1299,6 +1648,8 @@ build CMakeFiles/mlx.dir/lib/minilibx/mlx_mouse.m.o: C_COMPILER__mlx_Debug /User
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/mlx.dir
   OBJECT_FILE_DIR = CMakeFiles/mlx.dir/lib/minilibx
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
+  TARGET_PDB = libmlx.pdb
 
 build CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o: C_COMPILER__mlx_Debug /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_image.m || cmake_object_order_depends_target_mlx
   DEP_FILE = CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o.d
@@ -1306,6 +1657,8 @@ build CMakeFiles/mlx.dir/lib/minilibx/mlx_new_image.m.o: C_COMPILER__mlx_Debug /
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/mlx.dir
   OBJECT_FILE_DIR = CMakeFiles/mlx.dir/lib/minilibx
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
+  TARGET_PDB = libmlx.pdb
 
 build CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o: C_COMPILER__mlx_Debug /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_new_window.m || cmake_object_order_depends_target_mlx
   DEP_FILE = CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o.d
@@ -1313,6 +1666,8 @@ build CMakeFiles/mlx.dir/lib/minilibx/mlx_new_window.m.o: C_COMPILER__mlx_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/mlx.dir
   OBJECT_FILE_DIR = CMakeFiles/mlx.dir/lib/minilibx
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
+  TARGET_PDB = libmlx.pdb
 
 build CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o: C_COMPILER__mlx_Debug /Users/mathismartini/CLionProjects/cube/lib/minilibx/mlx_opengl.m || cmake_object_order_depends_target_mlx
   DEP_FILE = CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o.d
@@ -1320,6 +1675,8 @@ build CMakeFiles/mlx.dir/lib/minilibx/mlx_opengl.m.o: C_COMPILER__mlx_Debug /Use
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/mlx.dir
   OBJECT_FILE_DIR = CMakeFiles/mlx.dir/lib/minilibx
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
+  TARGET_PDB = libmlx.pdb
 
 
 # =============================================================================
@@ -1335,8 +1692,9 @@ build libmlx.a: C_STATIC_LIBRARY_LINKER__mlx_Debug CMakeFiles/mlx.dir/lib/minili
   OBJECT_DIR = CMakeFiles/mlx.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/mlx.dir/mlx.pdb
   TARGET_FILE = libmlx.a
-  TARGET_PDB = mlx.a.dbg
+  TARGET_PDB = libmlx.pdb
 
 # =============================================================================
 # Object build statements for STATIC_LIBRARY target better
@@ -1353,6 +1711,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_clean_display.c.o: C_COMPILE
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_image.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o.d
@@ -1360,6 +1720,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_image.c.o: C_COMPILE
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_destroy_window.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o.d
@@ -1367,6 +1729,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_destroy_window.c.o: C_COMPIL
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_draw_line.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o.d
@@ -1374,6 +1738,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_draw_line.c.o: C_COMPILER__b
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_color.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o.d
@@ -1381,6 +1747,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_color.c.o: C_COMPILER__b
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_get_memory_position.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o.d
@@ -1388,6 +1756,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_get_memory_position.c.o: C_C
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_hook.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o.d
@@ -1395,6 +1765,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_hook.c.o: C_COMPILER__better
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_image.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o.d
@@ -1402,6 +1774,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_image.c.o: C_COMPILER__
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_window.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o.d
@@ -1409,6 +1783,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_window.c.o: C_COMPILER_
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_init_xpm_image.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o.d
@@ -1416,6 +1792,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_init_xpm_image.c.o: C_COMPIL
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_pixel_put.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o.d
@@ -1423,6 +1801,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_pixel_put.c.o: C_COMPILER__b
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_put_image.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o.d
@@ -1430,6 +1810,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_put_image.c.o: C_COMPILER__b
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_register_loop.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o.d
@@ -1437,6 +1819,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_register_loop.c.o: C_COMPILE
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_render.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o.d
@@ -1444,6 +1828,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_render.c.o: C_COMPILER__bett
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 build CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o: C_COMPILER__better_Debug /Users/mathismartini/CLionProjects/cube/lib/bettermlx/bettermlx_set_color.c || cmake_object_order_depends_target_better
   DEP_FILE = CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o.d
@@ -1451,6 +1837,8 @@ build CMakeFiles/better.dir/lib/bettermlx/bettermlx_set_color.c.o: C_COMPILER__b
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/better.dir
   OBJECT_FILE_DIR = CMakeFiles/better.dir/lib/bettermlx
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
+  TARGET_PDB = libbetter.pdb
 
 
 # =============================================================================
@@ -1466,8 +1854,9 @@ build libbetter.a: C_STATIC_LIBRARY_LINKER__better_Debug CMakeFiles/better.dir/l
   OBJECT_DIR = CMakeFiles/better.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/better.dir/better.pdb
   TARGET_FILE = libbetter.a
-  TARGET_PDB = better.a.dbg
+  TARGET_PDB = libbetter.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target cube3D
@@ -1484,6 +1873,8 @@ build CMakeFiles/cube3D.dir/src/Init/init_main_struct.c.o: C_COMPILER__cube3D_De
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/Init
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/main.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/main.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/main.c.o.d
@@ -1491,6 +1882,8 @@ build CMakeFiles/cube3D.dir/src/main.c.o: C_COMPILER__cube3D_Debug /Users/mathis
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/check_texture_info.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o.d
@@ -1498,6 +1891,8 @@ build CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o: C_COMPILER__cube
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/error/format_errors.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.o.d
@@ -1505,6 +1900,8 @@ build CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.o: C_COMPILER__cub
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/error
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/error/texture_error.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o.d
@@ -1512,6 +1909,8 @@ build CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o: C_COMPILER__cub
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/error
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/get_map_info.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.o.d
@@ -1519,6 +1918,8 @@ build CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.o: C_COMPILER__cube3D_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/images/get_images.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o.d
@@ -1526,6 +1927,8 @@ build CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o: C_COMPILER__cube3
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/images
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/parse_map.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/parse_map.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/parse_map.c.o.d
@@ -1533,6 +1936,8 @@ build CMakeFiles/cube3D.dir/src/parsing/parse_map.c.o: C_COMPILER__cube3D_Debug 
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/utils/check_format_file_cub.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o.d
@@ -1540,6 +1945,8 @@ build CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o: C_COMPI
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/utils
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/utils/check_format_file_xpm.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o.d
@@ -1547,6 +1954,8 @@ build CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o: C_COMPI
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/utils
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 build CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/utils/colors.c || cmake_object_order_depends_target_cube3D
   DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o.d
@@ -1554,6 +1963,17 @@ build CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o: C_COMPILER__cube3D_Deb
   INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
   OBJECT_DIR = CMakeFiles/cube3D.dir
   OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/utils
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
+
+build CMakeFiles/cube3D.dir/src/parsing/utils/split.c.o: C_COMPILER__cube3D_Debug /Users/mathismartini/CLionProjects/cube/src/parsing/utils/split.c || cmake_object_order_depends_target_cube3D
+  DEP_FILE = CMakeFiles/cube3D.dir/src/parsing/utils/split.c.o.d
+  FLAGS = -Wdeprecated-declarations -O3 -Ofast -flto -march=native -ffast-math -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  INCLUDES = -I/Users/mathismartini/CLionProjects/cube/include -I/Users/mathismartini/CLionProjects/cube/lib/libft -I/Users/mathismartini/CLionProjects/cube/lib/minilibx -I/Users/mathismartini/CLionProjects/cube/lib/bettermlx
+  OBJECT_DIR = CMakeFiles/cube3D.dir
+  OBJECT_FILE_DIR = CMakeFiles/cube3D.dir/src/parsing/utils
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
+  TARGET_PDB = cube3D.pdb
 
 
 # =============================================================================
@@ -1563,21 +1983,22 @@ build CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o: C_COMPILER__cube3D_Deb
 #############################################
 # Link the executable cube3D
 
-build cube3D: C_EXECUTABLE_LINKER__cube3D_Debug CMakeFiles/cube3D.dir/src/Init/init_main_struct.c.o CMakeFiles/cube3D.dir/src/main.c.o CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.o CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.o CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o CMakeFiles/cube3D.dir/src/parsing/parse_map.c.o CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o | liblibft.a libmlx.a libbetter.a || libbetter.a liblibft.a libmlx.a
+build cube3D: C_EXECUTABLE_LINKER__cube3D_Debug CMakeFiles/cube3D.dir/src/Init/init_main_struct.c.o CMakeFiles/cube3D.dir/src/main.c.o CMakeFiles/cube3D.dir/src/parsing/check_texture_info.c.o CMakeFiles/cube3D.dir/src/parsing/error/format_errors.c.o CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.o CMakeFiles/cube3D.dir/src/parsing/get_map_info.c.o CMakeFiles/cube3D.dir/src/parsing/images/get_images.c.o CMakeFiles/cube3D.dir/src/parsing/parse_map.c.o CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_cub.c.o CMakeFiles/cube3D.dir/src/parsing/utils/check_format_file_xpm.c.o CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.o CMakeFiles/cube3D.dir/src/parsing/utils/split.c.o | liblibft.a libmlx.a libbetter.a || libbetter.a liblibft.a libmlx.a
   FLAGS = -Wdeprecated-declarations -O3 -Ofast -flto -march=native -ffast-math -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   LINK_LIBRARIES = -framework OpenGL -framework AppKit  -lm  liblibft.a  libmlx.a  libbetter.a
   OBJECT_DIR = CMakeFiles/cube3D.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/cube3D.dir/
   TARGET_FILE = cube3D
-  TARGET_PDB = cube3D.dbg
+  TARGET_PDB = cube3D.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/mathismartini/CLionProjects/cube/cmake-build-debug && "/Users/mathismartini/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion 2022.2 EAP.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/mathismartini/CLionProjects/cube/cmake-build-debug && "/Users/mathismartini/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -1588,7 +2009,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/mathismartini/CLionProjects/cube/cmake-build-debug && "/Users/mathismartini/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion 2022.2 EAP.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S/Users/mathismartini/CLionProjects/cube -B/Users/mathismartini/CLionProjects/cube/cmake-build-debug
+  COMMAND = cd /Users/mathismartini/CLionProjects/cube/cmake-build-debug && "/Users/mathismartini/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S/Users/mathismartini/CLionProjects/cube -B/Users/mathismartini/CLionProjects/cube/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -1621,14 +2042,14 @@ build all: phony liblibft.a libmlx.a libbetter.a cube3D
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompilerABI.c /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystem.cmake.in /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3244.6/CLion$ 2022.2$ EAP.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
+build ../CMakeLists.txt /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompilerABI.c /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystem.cmake.in /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Users/mathismartini/Library/Application$ Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
 
 
 #############################################
