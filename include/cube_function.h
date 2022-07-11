@@ -22,12 +22,14 @@ t_game 	*init_main_struct(void);
 void	parse_map(t_game *game, char **av);
 void	check_format_file_cub(t_game *game, char *path, const char *format);
 void	check_format_file_xpm(t_game *game, char *path, const char *format);
-void	get_map_info(t_game *game);
 char	*check_path_texture(t_game *game, char *path);
+void	get_map_info(t_game *game);
+void	get_map(t_game *game);
 
 /* Parsing/utils */
 t_color	add_color(const char *info, t_game *game);
 void	split(char *str, char *charset, char **result);
+size_t	size_char_tab(char **tab, size_t index, bool value);
 
 /* Images */
 void	get_image_xpm(t_game *game);

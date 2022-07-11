@@ -4824,6 +4824,30 @@ src/Init/init_main_struct.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/Init/init_main_struct.c.s
 .PHONY : src/Init/init_main_struct.c.s
 
+src/debug/debug_display.o: src/debug/debug_display.c.o
+.PHONY : src/debug/debug_display.o
+
+# target to build an object file
+src/debug/debug_display.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/debug/debug_display.c.o
+.PHONY : src/debug/debug_display.c.o
+
+src/debug/debug_display.i: src/debug/debug_display.c.i
+.PHONY : src/debug/debug_display.i
+
+# target to preprocess a source file
+src/debug/debug_display.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/debug/debug_display.c.i
+.PHONY : src/debug/debug_display.c.i
+
+src/debug/debug_display.s: src/debug/debug_display.c.s
+.PHONY : src/debug/debug_display.s
+
+# target to generate assembly for a file
+src/debug/debug_display.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/debug/debug_display.c.s
+.PHONY : src/debug/debug_display.c.s
+
 src/main.o: src/main.c.o
 .PHONY : src/main.o
 
@@ -4919,6 +4943,30 @@ src/parsing/error/texture_error.s: src/parsing/error/texture_error.c.s
 src/parsing/error/texture_error.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/error/texture_error.c.s
 .PHONY : src/parsing/error/texture_error.c.s
+
+src/parsing/get_map.o: src/parsing/get_map.c.o
+.PHONY : src/parsing/get_map.o
+
+# target to build an object file
+src/parsing/get_map.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/get_map.c.o
+.PHONY : src/parsing/get_map.c.o
+
+src/parsing/get_map.i: src/parsing/get_map.c.i
+.PHONY : src/parsing/get_map.i
+
+# target to preprocess a source file
+src/parsing/get_map.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/get_map.c.i
+.PHONY : src/parsing/get_map.c.i
+
+src/parsing/get_map.s: src/parsing/get_map.c.s
+.PHONY : src/parsing/get_map.s
+
+# target to generate assembly for a file
+src/parsing/get_map.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/get_map.c.s
+.PHONY : src/parsing/get_map.c.s
 
 src/parsing/get_map_info.o: src/parsing/get_map_info.c.o
 .PHONY : src/parsing/get_map_info.o
@@ -5063,6 +5111,30 @@ src/parsing/utils/colors.s: src/parsing/utils/colors.c.s
 src/parsing/utils/colors.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/colors.c.s
 .PHONY : src/parsing/utils/colors.c.s
+
+src/parsing/utils/size_char_tab.o: src/parsing/utils/size_char_tab.c.o
+.PHONY : src/parsing/utils/size_char_tab.o
+
+# target to build an object file
+src/parsing/utils/size_char_tab.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/size_char_tab.c.o
+.PHONY : src/parsing/utils/size_char_tab.c.o
+
+src/parsing/utils/size_char_tab.i: src/parsing/utils/size_char_tab.c.i
+.PHONY : src/parsing/utils/size_char_tab.i
+
+# target to preprocess a source file
+src/parsing/utils/size_char_tab.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/size_char_tab.c.i
+.PHONY : src/parsing/utils/size_char_tab.c.i
+
+src/parsing/utils/size_char_tab.s: src/parsing/utils/size_char_tab.c.s
+.PHONY : src/parsing/utils/size_char_tab.s
+
+# target to generate assembly for a file
+src/parsing/utils/size_char_tab.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cube3D.dir/build.make CMakeFiles/cube3D.dir/src/parsing/utils/size_char_tab.c.s
+.PHONY : src/parsing/utils/size_char_tab.c.s
 
 src/parsing/utils/split.o: src/parsing/utils/split.c.o
 .PHONY : src/parsing/utils/split.o
@@ -5682,6 +5754,9 @@ help:
 	@echo "... src/Init/init_main_struct.o"
 	@echo "... src/Init/init_main_struct.i"
 	@echo "... src/Init/init_main_struct.s"
+	@echo "... src/debug/debug_display.o"
+	@echo "... src/debug/debug_display.i"
+	@echo "... src/debug/debug_display.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -5694,6 +5769,9 @@ help:
 	@echo "... src/parsing/error/texture_error.o"
 	@echo "... src/parsing/error/texture_error.i"
 	@echo "... src/parsing/error/texture_error.s"
+	@echo "... src/parsing/get_map.o"
+	@echo "... src/parsing/get_map.i"
+	@echo "... src/parsing/get_map.s"
 	@echo "... src/parsing/get_map_info.o"
 	@echo "... src/parsing/get_map_info.i"
 	@echo "... src/parsing/get_map_info.s"
@@ -5712,6 +5790,9 @@ help:
 	@echo "... src/parsing/utils/colors.o"
 	@echo "... src/parsing/utils/colors.i"
 	@echo "... src/parsing/utils/colors.s"
+	@echo "... src/parsing/utils/size_char_tab.o"
+	@echo "... src/parsing/utils/size_char_tab.i"
+	@echo "... src/parsing/utils/size_char_tab.s"
 	@echo "... src/parsing/utils/split.o"
 	@echo "... src/parsing/utils/split.i"
 	@echo "... src/parsing/utils/split.s"

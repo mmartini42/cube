@@ -230,6 +230,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/mathmart/CLionProjects/cube/include/cube_debug.h">
+			<Option target="cube3D"/>
+		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/lib/bettermlx/bettermlx_clean_display.c">
 			<Option target="better"/>
 		</Unit>
@@ -818,6 +821,9 @@
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/Init/init_main_struct.c">
 			<Option target="cube3D"/>
 		</Unit>
+		<Unit filename="/Users/mathmart/CLionProjects/cube/src/debug/debug_display.c">
+			<Option target="cube3D"/>
+		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/main.c">
 			<Option target="cube3D"/>
 		</Unit>
@@ -828,6 +834,9 @@
 			<Option target="cube3D"/>
 		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/error/texture_error.c">
+			<Option target="cube3D"/>
+		</Unit>
+		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/get_map.c">
 			<Option target="cube3D"/>
 		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/get_map_info.c">
@@ -846,6 +855,9 @@
 			<Option target="cube3D"/>
 		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/utils/colors.c">
+			<Option target="cube3D"/>
+		</Unit>
+		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/utils/size_char_tab.c">
 			<Option target="cube3D"/>
 		</Unit>
 		<Unit filename="/Users/mathmart/CLionProjects/cube/src/parsing/utils/split.c">
