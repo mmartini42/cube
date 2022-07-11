@@ -6,7 +6,7 @@
 /*   By: mathismartini <mathismartini@student.42.fr>+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/01 17:51:42 by mathismartini     #+#    #+#             */
-/*   Updated: 2022/07/06 23:49:33 by mathismartini    ###   ########.fr       */
+/*   Updated: 2022/07/11 09:12:54 by mathmart         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,6 +40,7 @@ static char	*read_file(char *path)
 	if (!fd)
 		return (NULL);
 	read(fd, buff, size_read(path));
+	buff[size_read(path)] = '\0';
 	close(fd);
 	return (buff);
 }
@@ -73,7 +74,7 @@ void	parse_map(t_game *game, char **av)
 	check_format_file_cub(game, av[1], ".cub");
 	file = read_file(av[1]);
 	game->map->file = ft_split(file, "\n");
-	printf("test\n");
+//	printf("test %s\n", file);
 	for (int i = 0; game->map->file[i]; i++)
 		dprintf(1, "%s\n", game->map->file[i]);
 //	get_map_info(game);
