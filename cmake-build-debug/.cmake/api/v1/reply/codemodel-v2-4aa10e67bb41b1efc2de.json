@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cube",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "better::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-better-Debug-ab919f439b0236ac5a3e.json",
+					"name" : "better",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cube3D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cube3D-Debug-b719cff44b64d7e63275.json",
+					"name" : "cube3D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libft-Debug-d8052fb0bb15165c3bbc.json",
+					"name" : "libft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mlx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mlx-Debug-0bed42ed3b02dddea529.json",
+					"name" : "mlx",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mathmart/CLionProjects/cube/cmake-build-debug",
+		"source" : "/Users/mathmart/CLionProjects/cube"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
